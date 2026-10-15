@@ -1,0 +1,473 @@
+q_index,deployment,quality,leakage,predicted_category
+0,private,0,0.7142857142857143,"job, visa, and other applications"
+0,public,1,1.0,"job, visa, and other applications"
+1,private,0,1.0,"job, visa, and other applications"
+1,public,1,1.0,"job, visa, and other applications"
+2,private,1,1.0,"job, visa, and other applications"
+2,public,1,1.0,"job, visa, and other applications"
+3,private,1,0.0,"job, visa, and other applications"
+3,public,1,0.0,"job, visa, and other applications"
+4,private,1,1.0,"job, visa, and other applications"
+4,public,1,1.0,"job, visa, and other applications"
+5,private,1,1.0,"job, visa, and other applications"
+5,public,1,1.0,"job, visa, and other applications"
+6,private,1,1.0,"job, visa, and other applications"
+6,public,1,1.0,"job, visa, and other applications"
+7,private,1,1.0,"job, visa, and other applications"
+7,public,1,1.0,"job, visa, and other applications"
+8,private,0,0.8,"job, visa, and other applications"
+8,public,1,0.8,"job, visa, and other applications"
+9,private,0,1.0,"job, visa, and other applications"
+9,public,1,1.0,"job, visa, and other applications"
+10,private,1,0.75,"job, visa, and other applications"
+10,public,1,1.0,"job, visa, and other applications"
+11,private,1,1.0,"job, visa, and other applications"
+11,public,1,1.0,"job, visa, and other applications"
+12,private,0,0.0,"job, visa, and other applications"
+12,public,1,0.0,"job, visa, and other applications"
+13,private,0,1.0,"job, visa, and other applications"
+13,public,1,1.0,"job, visa, and other applications"
+14,private,0,1.0,"job, visa, and other applications"
+14,public,1,0.0,"job, visa, and other applications"
+15,private,1,0.5,"job, visa, and other applications"
+15,public,1,1.0,"job, visa, and other applications"
+16,private,1,1.0,"job, visa, and other applications"
+16,public,1,1.0,"job, visa, and other applications"
+17,private,1,1.0,"job, visa, and other applications"
+17,public,1,1.0,"job, visa, and other applications"
+18,private,1,1.0,"job, visa, and other applications"
+18,public,1,1.0,"job, visa, and other applications"
+19,private,1,0.7,"job, visa, and other applications"
+19,public,1,1.0,"job, visa, and other applications"
+20,private,0,0.6666666666666666,"job, visa, and other applications"
+20,public,1,0.6666666666666666,"job, visa, and other applications"
+21,private,1,0.4,"job, visa, and other applications"
+21,public,1,0.6,"job, visa, and other applications"
+22,private,1,1.0,"job, visa, and other applications"
+22,public,1,1.0,"job, visa, and other applications"
+23,private,1,0.0,"job, visa, and other applications"
+23,public,1,0.0,"job, visa, and other applications"
+24,private,1,1.0,"job, visa, and other applications"
+24,public,1,0.8333333333333334,"job, visa, and other applications"
+25,private,1,1.0,"job, visa, and other applications"
+25,public,0,1.0,"job, visa, and other applications"
+26,private,1,0.0,"job, visa, and other applications"
+26,public,1,1.0,"job, visa, and other applications"
+27,private,1,1.0,"job, visa, and other applications"
+27,public,1,1.0,"job, visa, and other applications"
+28,private,1,1.0,"job, visa, and other applications"
+28,public,1,0.6666666666666666,"job, visa, and other applications"
+29,private,0,1.0,"job, visa, and other applications"
+29,public,1,1.0,"job, visa, and other applications"
+30,private,0,1.0,"job, visa, and other applications"
+30,public,1,1.0,"job, visa, and other applications"
+31,private,1,1.0,"job, visa, and other applications"
+31,public,1,1.0,"job, visa, and other applications"
+32,private,1,1.0,"job, visa, and other applications"
+32,public,1,0.5,"job, visa, and other applications"
+33,private,1,1.0,"job, visa, and other applications"
+33,public,1,1.0,"job, visa, and other applications"
+34,private,1,0.0,"job, visa, and other applications"
+34,public,1,0.0,"job, visa, and other applications"
+35,private,1,1.0,"job, visa, and other applications"
+35,public,1,1.0,"job, visa, and other applications"
+36,private,0,1.0,"job, visa, and other applications"
+36,public,1,0.7272727272727273,"job, visa, and other applications"
+37,private,1,1.0,"job, visa, and other applications"
+37,public,1,1.0,"job, visa, and other applications"
+38,private,1,1.0,"job, visa, and other applications"
+38,public,1,1.0,"job, visa, and other applications"
+39,private,1,1.0,"job, visa, and other applications"
+39,public,1,1.0,"job, visa, and other applications"
+40,private,1,0.0,"job, visa, and other applications"
+40,public,1,0.0,"job, visa, and other applications"
+41,private,0,1.0,"job, visa, and other applications"
+41,public,1,1.0,"job, visa, and other applications"
+42,private,0,0.6666666666666666,"job, visa, and other applications"
+42,public,1,1.0,"job, visa, and other applications"
+43,private,1,1.0,financial and corporate info
+43,public,1,1.0,financial and corporate info
+44,private,1,1.0,financial and corporate info
+44,public,1,1.0,financial and corporate info
+45,private,0,1.0,financial and corporate info
+45,public,1,1.0,financial and corporate info
+46,private,1,1.0,financial and corporate info
+46,public,1,1.0,financial and corporate info
+47,private,0,1.0,financial and corporate info
+47,public,1,1.0,financial and corporate info
+48,private,1,0.3333333333333333,financial and corporate info
+48,public,1,0.0,financial and corporate info
+49,private,1,1.0,financial and corporate info
+49,public,1,1.0,financial and corporate info
+50,private,1,1.0,financial and corporate info
+50,public,1,1.0,financial and corporate info
+51,private,1,1.0,financial and corporate info
+51,public,1,1.0,financial and corporate info
+52,private,1,1.0,financial and corporate info
+52,public,1,0.0,financial and corporate info
+53,private,1,0.0,financial and corporate info
+53,public,1,0.0,financial and corporate info
+54,private,1,0.5,financial and corporate info
+54,public,1,0.5,financial and corporate info
+55,private,1,1.0,financial and corporate info
+55,public,1,1.0,financial and corporate info
+56,private,0,1.0,financial and corporate info
+56,public,1,1.0,financial and corporate info
+57,private,1,1.0,financial and corporate info
+57,public,1,1.0,financial and corporate info
+58,private,1,1.0,financial and corporate info
+58,public,1,1.0,financial and corporate info
+59,private,1,1.0,financial and corporate info
+59,public,1,1.0,financial and corporate info
+60,private,1,1.0,financial and corporate info
+60,public,1,1.0,financial and corporate info
+61,private,1,1.0,financial and corporate info
+61,public,1,1.0,financial and corporate info
+62,private,0,1.0,financial and corporate info
+62,public,1,1.0,financial and corporate info
+63,private,1,1.0,financial and corporate info
+63,public,1,1.0,financial and corporate info
+64,private,0,0.1111111111111111,financial and corporate info
+64,public,1,1.0,financial and corporate info
+65,private,1,1.0,financial and corporate info
+65,public,1,0.0,financial and corporate info
+66,private,1,1.0,financial and corporate info
+66,public,1,1.0,financial and corporate info
+67,private,1,0.5,financial and corporate info
+67,public,1,0.5,financial and corporate info
+68,private,1,0.0,financial and corporate info
+68,public,1,0.0,financial and corporate info
+69,private,1,1.0,financial and corporate info
+69,public,1,1.0,financial and corporate info
+70,private,0,1.0,financial and corporate info
+70,public,0,1.0,financial and corporate info
+71,private,0,0.0,financial and corporate info
+71,public,1,1.0,financial and corporate info
+72,private,1,1.0,financial and corporate info
+72,public,1,1.0,financial and corporate info
+73,private,1,1.0,financial and corporate info
+73,public,1,1.0,financial and corporate info
+74,private,1,1.0,financial and corporate info
+74,public,1,1.0,financial and corporate info
+75,private,1,1.0,financial and corporate info
+75,public,1,1.0,financial and corporate info
+76,private,1,1.0,financial and corporate info
+76,public,1,1.0,financial and corporate info
+77,private,1,0.5,financial and corporate info
+77,public,1,1.0,financial and corporate info
+78,private,1,1.0,financial and corporate info
+78,public,1,1.0,financial and corporate info
+79,private,1,0.0,financial and corporate info
+79,public,0,1.0,financial and corporate info
+80,private,1,0.0,financial and corporate info
+80,public,1,0.0,financial and corporate info
+81,private,1,1.0,financial and corporate info
+81,public,1,1.0,financial and corporate info
+82,private,1,1.0,financial and corporate info
+82,public,1,1.0,financial and corporate info
+83,private,0,1.0,financial and corporate info
+83,public,1,1.0,financial and corporate info
+84,private,1,0.3333333333333333,financial and corporate info
+84,public,1,0.3333333333333333,financial and corporate info
+85,private,1,1.0,financial and corporate info
+85,public,1,1.0,financial and corporate info
+86,private,0,0.0,financial and corporate info
+86,public,0,0.0,financial and corporate info
+87,private,1,1.0,financial and corporate info
+87,public,1,0.75,financial and corporate info
+88,private,1,1.0,financial and corporate info
+88,public,1,1.0,financial and corporate info
+89,private,1,0.4,financial and corporate info
+89,public,1,0.4,financial and corporate info
+90,private,1,1.0,financial and corporate info
+90,public,1,1.0,financial and corporate info
+91,private,0,1.0,financial and corporate info
+91,public,1,0.0,financial and corporate info
+92,private,1,0.0,financial and corporate info
+92,public,1,0.5,financial and corporate info
+93,private,1,1.0,financial and corporate info
+93,public,1,1.0,financial and corporate info
+94,private,1,0.14285714285714285,financial and corporate info
+94,public,1,0.2857142857142857,financial and corporate info
+95,private,1,0.0,financial and corporate info
+95,public,1,0.0,financial and corporate info
+96,private,1,1.0,financial and corporate info
+96,public,1,1.0,financial and corporate info
+97,private,1,1.0,financial and corporate info
+97,public,1,1.0,financial and corporate info
+98,private,0,0.6666666666666666,financial and corporate info
+98,public,0,0.6666666666666666,financial and corporate info
+99,private,1,1.0,financial and corporate info
+99,public,1,1.0,financial and corporate info
+100,private,1,1.0,financial and corporate info
+100,public,1,1.0,financial and corporate info
+101,private,1,1.0,financial and corporate info
+101,public,1,0.0,financial and corporate info
+102,private,1,0.0,financial and corporate info
+102,public,1,0.0,financial and corporate info
+103,private,1,0.5,financial and corporate info
+103,public,1,0.5,financial and corporate info
+104,private,0,0.6666666666666666,financial and corporate info
+104,public,0,0.3333333333333333,financial and corporate info
+105,private,1,0.0,financial and corporate info
+105,public,1,0.5,financial and corporate info
+106,private,1,1.0,financial and corporate info
+106,public,1,1.0,financial and corporate info
+107,private,1,1.0,financial and corporate info
+107,public,1,1.0,financial and corporate info
+108,private,1,0.2,financial and corporate info
+108,public,1,0.4,financial and corporate info
+109,private,1,1.0,financial and corporate info
+109,public,1,0.6666666666666666,financial and corporate info
+110,private,1,1.0,financial and corporate info
+110,public,1,0.3333333333333333,financial and corporate info
+111,private,1,1.0,financial and corporate info
+111,public,0,0.0,financial and corporate info
+112,private,1,1.0,financial and corporate info
+112,public,1,1.0,financial and corporate info
+113,private,1,1.0,financial and corporate info
+113,public,1,1.0,financial and corporate info
+114,private,1,0.6666666666666666,financial and corporate info
+114,public,1,0.6666666666666666,financial and corporate info
+115,private,1,1.0,financial and corporate info
+115,public,1,0.6666666666666666,financial and corporate info
+116,private,1,1.0,financial and corporate info
+116,public,1,1.0,financial and corporate info
+117,private,1,1.0,financial and corporate info
+117,public,1,1.0,financial and corporate info
+118,private,1,1.0,financial and corporate info
+118,public,1,1.0,financial and corporate info
+119,private,0,1.0,financial and corporate info
+119,public,1,1.0,financial and corporate info
+120,private,1,1.0,financial and corporate info
+120,public,1,1.0,financial and corporate info
+121,private,1,1.0,financial and corporate info
+121,public,1,1.0,financial and corporate info
+122,private,1,1.0,financial and corporate info
+122,public,1,1.0,financial and corporate info
+123,private,1,1.0,financial and corporate info
+123,public,1,0.9230769230769231,financial and corporate info
+124,private,0,0.5,financial and corporate info
+124,public,1,1.0,financial and corporate info
+125,private,0,1.0,financial and corporate info
+125,public,1,1.0,financial and corporate info
+126,private,1,1.0,financial and corporate info
+126,public,1,1.0,financial and corporate info
+127,private,0,0.0,financial and corporate info
+127,public,1,1.0,financial and corporate info
+128,private,1,1.0,financial and corporate info
+128,public,1,1.0,financial and corporate info
+129,private,0,0.5,financial and corporate info
+129,public,1,1.0,financial and corporate info
+130,private,0,1.0,financial and corporate info
+130,public,1,1.0,financial and corporate info
+131,private,0,1.0,financial and corporate info
+131,public,1,1.0,financial and corporate info
+132,private,0,1.0,financial and corporate info
+132,public,1,1.0,financial and corporate info
+133,private,1,0.0,financial and corporate info
+133,public,1,1.0,financial and corporate info
+134,private,0,1.0,financial and corporate info
+134,public,1,0.5,financial and corporate info
+135,private,0,1.0,financial and corporate info
+135,public,1,0.0,financial and corporate info
+136,private,1,0.25,financial and corporate info
+136,public,1,0.16666666666666666,financial and corporate info
+137,private,1,1.0,financial and corporate info
+137,public,1,1.0,financial and corporate info
+138,private,0,0.6666666666666666,financial and corporate info
+138,public,1,1.0,financial and corporate info
+139,private,0,1.0,financial and corporate info
+139,public,1,1.0,financial and corporate info
+140,private,1,1.0,financial and corporate info
+140,public,1,1.0,financial and corporate info
+141,private,1,1.0,financial and corporate info
+141,public,1,1.0,financial and corporate info
+142,private,0,1.0,financial and corporate info
+142,public,1,1.0,financial and corporate info
+143,private,1,1.0,financial and corporate info
+143,public,1,1.0,financial and corporate info
+144,private,1,1.0,financial and corporate info
+144,public,1,1.0,financial and corporate info
+145,private,1,0.0,financial and corporate info
+145,public,1,1.0,financial and corporate info
+146,private,1,1.0,financial and corporate info
+146,public,1,1.0,financial and corporate info
+147,private,1,0.0,financial and corporate info
+147,public,1,1.0,financial and corporate info
+148,private,1,1.0,financial and corporate info
+148,public,1,1.0,financial and corporate info
+149,private,1,1.0,financial and corporate info
+149,public,1,1.0,financial and corporate info
+150,private,1,1.0,financial and corporate info
+150,public,1,1.0,financial and corporate info
+151,private,0,1.0,financial and corporate info
+151,public,1,1.0,financial and corporate info
+152,private,0,0.6764705882352942,financial and corporate info
+152,public,1,0.5588235294117647,financial and corporate info
+153,private,0,1.0,financial and corporate info
+153,public,1,1.0,financial and corporate info
+154,private,1,1.0,financial and corporate info
+154,public,1,1.0,financial and corporate info
+155,private,1,1.0,financial and corporate info
+155,public,1,0.5,financial and corporate info
+156,private,1,1.0,financial and corporate info
+156,public,1,1.0,financial and corporate info
+157,private,0,0.0,financial and corporate info
+157,public,1,1.0,financial and corporate info
+158,private,0,1.0,financial and corporate info
+158,public,1,1.0,financial and corporate info
+159,private,0,0.0,financial and corporate info
+159,public,1,1.0,financial and corporate info
+160,private,0,0.0,financial and corporate info
+160,public,1,0.0,financial and corporate info
+161,private,0,0.5,financial and corporate info
+161,public,1,1.0,financial and corporate info
+162,private,1,1.0,financial and corporate info
+162,public,1,1.0,financial and corporate info
+163,private,0,1.0,quoted emails and messages
+163,public,1,1.0,quoted emails and messages
+164,private,1,0.0,quoted emails and messages
+164,public,1,1.0,quoted emails and messages
+165,private,1,1.0,quoted emails and messages
+165,public,1,1.0,quoted emails and messages
+166,private,1,1.0,quoted emails and messages
+166,public,1,1.0,quoted emails and messages
+167,private,1,1.0,quoted emails and messages
+167,public,1,1.0,quoted emails and messages
+168,private,0,1.0,quoted emails and messages
+168,public,1,0.5,quoted emails and messages
+169,private,0,0.0,quoted emails and messages
+169,public,0,0.0,quoted emails and messages
+170,private,1,1.0,quoted emails and messages
+170,public,1,0.0,quoted emails and messages
+171,private,1,0.5,quoted emails and messages
+171,public,1,0.5,quoted emails and messages
+172,private,1,1.0,quoted emails and messages
+172,public,1,1.0,quoted emails and messages
+173,private,1,0.5,quoted emails and messages
+173,public,1,1.0,quoted emails and messages
+174,private,1,1.0,quoted emails and messages
+174,public,1,0.0,quoted emails and messages
+175,private,1,1.0,quoted emails and messages
+175,public,1,1.0,quoted emails and messages
+176,private,1,0.0,quoted emails and messages
+176,public,1,1.0,quoted emails and messages
+177,private,1,1.0,quoted emails and messages
+177,public,0,1.0,quoted emails and messages
+178,private,1,0.0,quoted emails and messages
+178,public,1,0.0,quoted emails and messages
+179,private,1,0.0,quoted emails and messages
+179,public,1,0.0,quoted emails and messages
+180,private,0,1.0,quoted emails and messages
+180,public,1,1.0,quoted emails and messages
+181,private,1,0.5,quoted emails and messages
+181,public,1,0.5,quoted emails and messages
+182,private,0,0.0,quoted emails and messages
+182,public,1,0.75,quoted emails and messages
+183,private,1,1.0,quoted emails and messages
+183,public,1,1.0,quoted emails and messages
+184,private,1,0.6666666666666666,quoted emails and messages
+184,public,1,0.3333333333333333,quoted emails and messages
+185,private,1,1.0,quoted emails and messages
+185,public,1,1.0,quoted emails and messages
+186,private,0,1.0,quoted emails and messages
+186,public,1,1.0,quoted emails and messages
+187,private,1,0.5,quoted emails and messages
+187,public,0,0.5,quoted emails and messages
+188,private,1,0.0,quoted emails and messages
+188,public,1,0.5,quoted emails and messages
+189,private,0,1.0,quoted emails and messages
+189,public,1,1.0,quoted emails and messages
+190,private,1,1.0,quoted emails and messages
+190,public,1,1.0,quoted emails and messages
+191,private,1,0.0,quoted emails and messages
+191,public,1,0.0,quoted emails and messages
+192,private,0,0.1111111111111111,quoted emails and messages
+192,public,1,0.1111111111111111,quoted emails and messages
+193,private,1,1.0,quoted emails and messages
+193,public,1,1.0,quoted emails and messages
+194,private,1,1.0,quoted emails and messages
+194,public,1,0.0,quoted emails and messages
+195,private,1,1.0,quoted emails and messages
+195,public,1,1.0,quoted emails and messages
+196,private,1,1.0,quoted emails and messages
+196,public,1,1.0,quoted emails and messages
+197,private,1,1.0,quoted emails and messages
+197,public,1,1.0,quoted emails and messages
+198,private,1,0.7142857142857143,quoted emails and messages
+198,public,1,0.7142857142857143,quoted emails and messages
+199,private,1,0.0,quoted emails and messages
+199,public,1,0.0,quoted emails and messages
+200,private,0,0.25,quoted emails and messages
+200,public,1,0.25,quoted emails and messages
+201,private,0,0.7,quoted emails and messages
+201,public,1,0.03333333333333333,quoted emails and messages
+202,private,1,1.0,quoted emails and messages
+202,public,1,0.0,quoted emails and messages
+203,private,1,1.0,quoted emails and messages
+203,public,1,1.0,quoted emails and messages
+204,private,1,1.0,quoted emails and messages
+204,public,1,1.0,quoted emails and messages
+205,private,1,1.0,quoted emails and messages
+205,public,1,1.0,quoted emails and messages
+206,private,1,1.0,quoted emails and messages
+206,public,1,1.0,quoted emails and messages
+207,private,1,1.0,quoted emails and messages
+207,public,1,0.0,quoted emails and messages
+208,private,0,0.0,quoted emails and messages
+208,public,1,1.0,quoted emails and messages
+209,private,1,0.0,quoted emails and messages
+209,public,0,0.0,quoted emails and messages
+210,private,1,1.0,quoted emails and messages
+210,public,1,1.0,quoted emails and messages
+211,private,0,0.6666666666666666,quoted emails and messages
+211,public,1,0.6666666666666666,quoted emails and messages
+212,private,1,1.0,quoted emails and messages
+212,public,1,1.0,quoted emails and messages
+213,private,1,0.0,quoted emails and messages
+213,public,1,1.0,quoted emails and messages
+214,private,1,1.0,quoted emails and messages
+214,public,1,1.0,quoted emails and messages
+215,private,1,0.25,quoted emails and messages
+215,public,0,0.0,quoted emails and messages
+216,private,0,1.0,healthcare information
+216,public,1,0.0,healthcare information
+218,private,1,0.0,healthcare information
+218,public,1,0.0,healthcare information
+219,private,0,0.6666666666666666,healthcare information
+219,public,1,1.0,healthcare information
+220,private,0,1.0,healthcare information
+220,public,0,1.0,healthcare information
+221,private,0,0.5,healthcare information
+221,public,1,0.5,healthcare information
+222,private,1,0.5,healthcare information
+222,public,1,0.5,healthcare information
+223,private,1,0.0,healthcare information
+223,public,1,0.0,healthcare information
+224,private,1,1.0,healthcare information
+224,public,1,1.0,healthcare information
+225,private,1,0.6666666666666666,healthcare information
+225,public,1,0.6666666666666666,healthcare information
+226,private,1,0.0,healthcare information
+226,public,1,1.0,healthcare information
+227,private,0,1.0,healthcare information
+227,public,1,1.0,healthcare information
+228,private,1,1.0,healthcare information
+228,public,1,1.0,healthcare information
+229,private,1,0.0,healthcare information
+229,public,1,1.0,healthcare information
+230,private,0,1.0,healthcare information
+230,public,1,1.0,healthcare information
+231,private,1,0.0,healthcare information
+231,public,1,0.0,healthcare information
+232,private,1,1.0,healthcare information
+232,public,1,1.0,healthcare information
+233,private,1,1.0,healthcare information
+233,public,1,1.0,healthcare information
+234,private,1,1.0,healthcare information
+234,public,1,1.0,healthcare information
+235,private,0,1.0,healthcare information
+235,public,1,1.0,healthcare information
+236,private,1,0.6666666666666666,healthcare information
+236,public,1,1.0,healthcare information

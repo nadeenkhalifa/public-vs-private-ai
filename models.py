@@ -10,7 +10,6 @@ load_dotenv()  # reads GEMINI_API_KEY from .env
 TEMPERATURE = 0.7  # same setting as Irugalbandara et al. (2024)
 GEMINI_MODEL = "gemini-3.5-flash-lite"
 LOCAL_MODEL = "mistral"
-
 gemini_client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
 

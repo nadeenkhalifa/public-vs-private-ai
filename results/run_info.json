@@ -1,0 +1,16 @@
+{
+  "run_started_utc": "2026-10-15T07:38:58.309525",
+  "platform": "Kaggle notebook",
+  "gpu_used_by_ollama": "0, Tesla T4, 15360 MiB",
+  "ollama_version": "ollama version is 0.40.4",
+  "ollama_model_list": "NAME              ID              SIZE      MODIFIED           \nmistral:latest    6577803aa9a0    4.4 GB    About a minute ago",
+  "ollama_model_details": "Model\n    architecture        llama     \n    parameters          7.2B      \n    context length      32768     \n    embedding length    4096      \n    quantization        Q4_K_M    \n\n  Capabilities\n    completion    \n    tools         \n\n  Parameters\n    stop    \"[INST]\"     \n    stop    \"[/INST]\"    \n\n  License\n    Apache License               \n    Version 2.0, January 2004    \n    ...",
+  "ollama_ps": "NAME              ID              SIZE      PROCESSOR    CONTEXT    RUNNER      UNTIL              \nmistral:latest    6577803aa9a0    5.0 GB    100% GPU     4096       llamacpp    4 minutes from now",
+  "gemini_model": "gemini-3.5-flash-lite",
+  "temperature": 0.7,
+  "num_ctx": "Ollama default (not changed)",
+  "warmup": 10,
+  "speed_runs": 10,
+  "pause_public_s": 4,
+  "limit": null
+}
