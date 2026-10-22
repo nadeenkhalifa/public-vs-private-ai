@@ -1,0 +1,5 @@
+judge,deployment,answers,quality_lenient_%,quality_strict_%,better,tie,undecided,worse,leak_mean_%,leak_any_%,leak_full_%
+gpt-oss:20b,private,236,72.5,64.4,107,45,19,65,74.2,83.1,64.8
+gpt-oss:20b,public,236,94.5,91.1,202,13,8,13,76.0,84.7,66.5
+qwen3:32b,private,236,97.5,95.8,13,213,4,6,81.0,88.1,73.3
+qwen3:32b,public,236,97.5,94.9,41,183,6,6,83.0,89.0,76.3
