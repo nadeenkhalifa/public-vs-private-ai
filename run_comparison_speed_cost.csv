@@ -1,0 +1,17 @@
+,Original,Arabic
+speedtest_private_s,12.28 ± 1.82,17.54 ± 5.05
+speedtest_private_s_per_token,0.0370 ± 0.0005,0.0403 ± 0.0002
+speedtest_public_s,4.86 ± 0.74,2.32 ± 3.64
+speedtest_public_s_per_token,0.0311 ± 0.0154,0.0209 ± 0.0329
+median_latency_private_s,11.7,12.95
+median_latency_public_s,2.35,3.1
+median_s_per_token_private,0.0375,0.0408
+median_s_per_token_public,0.0053,0.0065
+api_cost_total_$,0.372,0.375
+api_per_query_$,0.00157,0.00158
+api_per_1K_$,0.00263,0.00263
+private_tokens_per_s,26.23,24.1
+private_per_1K_$,0.00696,0.00758
+private_vs_api,2.65,2.88
+capacity_queries_month,103500,70239
+break_even_queries_month,244794,242484

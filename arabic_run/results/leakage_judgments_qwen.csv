@@ -1,0 +1,1291 @@
+q_index,deployment,unit,verdict,raw
+0,private,h&r technology,1,Yes.
+0,private,johnny,1,Yes
+0,private,johnny bay,1,Yes
+0,private,rachel,1,Yes.
+0,private,rachel zheng,1,Yes
+0,private,univeristy of westminster,1,Yes.
+0,private,westminster,1,Yes.
+0,public,h&r technology,1,yes
+0,public,johnny,1,yes
+0,public,johnny bay,1,yes
+0,public,rachel,1,yes
+0,public,rachel zheng,1,yes
+0,public,univeristy of westminster,1,Yes
+0,public,westminster,1,yes
+1,private,university,1,Yes.
+1,public,university,1,Yes.
+2,private,Sudan,1,Yes
+2,public,Sudan,1,Yes
+3,private,krzysztof kieślowski,1,Yes.
+3,public,krzysztof kieślowski,1,Yes.
+4,private,sparc,1,Yes
+4,public,sparc,1,Yes
+5,private,"wipro, noida",1,Yes
+5,public,"wipro, noida",1,Yes
+6,private,mallott’s general store,1,Yes
+6,public,mallott’s general store,1,Yes
+7,private,seattle/king county,1,Yes
+7,public,seattle/king county,1,Yes
+8,private,"beijing shou’an human resources consulting service co., ltd.",1,Yes.
+8,private,"dagong global credit rating co., ltd.",1,Yes
+8,private,north polytechnic university,1,Yes
+8,private,weijia,1,Yes.
+8,private,weijia huang,1,Yes.
+8,public,"beijing shou’an human resources consulting service co., ltd.",1,Yes
+8,public,"dagong global credit rating co., ltd.",1,Yes
+8,public,north polytechnic university,1,Yes.
+8,public,weijia,1,Yes.
+8,public,weijia huang,1,Yes.
+9,private,hanisha,1,yes
+9,private,jacob,1,Yes
+9,public,hanisha,1,Yes
+9,public,jacob,1,Yes
+10,private,d,0,No.
+10,private,indian,0,No.
+10,private,mahsa zandiyeh,1,Yes
+10,private,mr.rana,1,Yes
+10,public,d,0,No.
+10,public,indian,1,Yes
+10,public,mahsa zandiyeh,1,yes
+10,public,mr.rana,1,Yes
+11,private,Rujing,1,Yes.
+11,public,Rujing,0,No.
+12,private,<presidio_anonymized_person>,1,Yes
+12,public,<presidio_anonymized_person>,1,Yes.
+13,private,akhil bhartiya natra sang,1,Yes.
+13,private,mgs hospital,1,Yes
+13,private,pidilite company,1,Yes.
+13,private,seema taneja,1,Yes
+13,private,swayam trust ngo,1,Yes.
+13,public,akhil bhartiya natra sang,1,Yes
+13,public,mgs hospital,1,Yes
+13,public,pidilite company,1,Yes
+13,public,seema taneja,1,Yes
+13,public,swayam trust ngo,1,Yes
+14,private,lualhati,1,Yes.
+14,public,lualhati,1,yes
+15,private,alexander mann solutions,1,Yes
+15,private,mickael bauman,0,No.
+15,public,alexander mann solutions,1,Yes.
+15,public,mickael bauman,1,Yes.
+16,private,France,1,Yes
+16,public,France,1,Yes
+17,private,division of administration,1,Yes
+17,private,dos,1,Yes
+17,private,hqcss,1,Yes
+17,private,new york,0,No.
+17,public,division of administration,1,Yes
+17,public,dos,1,Yes
+17,public,hqcss,1,Yes
+17,public,new york,1,Yes
+18,private,dubai,1,Yes
+18,public,dubai,1,Yes
+19,private,ani pansari +852 5611 0584 | pansariani@icloud.com,1,Yes
+19,private,camp beaumont asia,1,Yes
+19,private,"corvinus university, budapest",1,Yes
+19,private,esf quarry bay school,1,Yes
+19,private,eyelevel prestige education center limited,1,Yes
+19,private,ics learn,1,Yes
+19,private,"monash college, melbourne",1,Yes
+19,private,"monash university, melbourne",1,Yes
+19,private,soskely,1,Yes
+19,private,stamford american school hk,0,No
+19,public,ani pansari +852 5611 0584 | pansariani@icloud.com,1,Yes
+19,public,camp beaumont asia,1,Yes
+19,public,"corvinus university, budapest",1,Yes
+19,public,esf quarry bay school,1,Yes
+19,public,eyelevel prestige education center limited,1,Yes
+19,public,ics learn,1,Yes
+19,public,"monash college, melbourne",1,Yes
+19,public,"monash university, melbourne",1,Yes
+19,public,soskely,1,Yes.
+19,public,stamford american school hk,1,Yes
+20,private,[location not specified in the original text],0,No.
+20,private,hse university,1,Yes
+20,private,russian ministry of education,1,Yes.
+20,public,[location not specified in the original text],0,No.
+20,public,hse university,1,Yes
+20,public,russian ministry of education,1,Yes
+21,private,american,0,No.
+21,private,google,1,Yes
+21,private,google pay,1,Yes
+21,private,india,0,No
+21,private,singapore,0,No.
+21,public,american,1,Yes.
+21,public,google,1,Yes
+21,public,google pay,1,Yes
+21,public,india,1,Yes
+21,public,singapore,1,Yes
+22,private,cfb kingston,1,Yes
+22,private,mcpl king,1,Yes
+22,private,partners in mission food bank,1,Yes
+22,public,cfb kingston,1,Yes.
+22,public,mcpl king,1,Yes.
+22,public,partners in mission food bank,1,Yes.
+23,private,tel-aviv,0,No.
+23,public,tel-aviv,1,Yes
+24,private,byd,1,Yes
+24,private,catl,1,Yes
+24,private,chn energy,1,Yes
+24,private,envision,1,Yes
+24,private,gotion high-tech,1,Yes
+24,private,sunwoda energy,1,Yes
+24,public,byd,1,Yes
+24,public,catl,1,Yes
+24,public,chn energy,1,Yes
+24,public,envision,1,Yes
+24,public,gotion high-tech,1,Yes
+24,public,sunwoda energy,1,Yes
+25,private,caroline regis,1,Yes
+25,private,excel systems,1,Yes
+25,public,caroline regis,1,Yes
+25,public,excel systems,1,Yes.
+26,private,m.kis,0,No.
+26,public,m.kis,0,No.
+27,private,prof. martin margala,1,Yes
+27,public,prof. martin margala,1,Yes
+28,private,<presidio_anonymized_person>,1,Yes
+28,private,cory,1,Yes
+28,private,kuebler,1,Yes
+28,public,<presidio_anonymized_person>,0,No
+28,public,cory,1,Yes
+28,public,kuebler,1,Yes
+29,private,<presidio_anonymized_person>,1,Yes
+29,private,ahmad,1,Yes
+29,public,<presidio_anonymized_person>,1,Yes
+29,public,ahmad,1,Yes
+30,private,saudi airline,1,Yes
+30,public,saudi airline,1,Yes
+31,private,"the university of hagen, germany",1,yes
+31,private,"the university of nebraska, omaha (usa)",1,Yes
+31,private,the university of technology malaysia,1,Yes
+31,public,"the university of hagen, germany",1,Yes
+31,public,"the university of nebraska, omaha (usa)",1,Yes
+31,public,the university of technology malaysia,1,Yes
+32,private,aderemi biodun funmilola,1,yes
+32,private,"bevpak nigeria limited, ibadan, oyo state",1,Yes
+32,private,"primewealth capital limited, lagos state, nigeria",1,Yes
+32,private,"solid rock health care services, md",1,Yes
+32,private,"solid rock healthcare services, md",1,Yes
+32,private,"synergy tax and financial services, md",1,Yes
+32,public,aderemi biodun funmilola,1,yes
+32,public,"bevpak nigeria limited, ibadan, oyo state",1,Yes
+32,public,"primewealth capital limited, lagos state, nigeria",1,Yes
+32,public,"solid rock health care services, md",1,Yes
+32,public,"solid rock healthcare services, md",1,Yes
+32,public,"synergy tax and financial services, md",1,Yes
+33,private,gelato.com,1,Yes
+33,public,gelato.com,1,Yes
+34,private,lumen,0,No.
+34,private,lumen's,0,No.
+34,private,"news.lumen.com, linkedin: /lumentechnologies, twitter: @lumentechco, facebook: /lumentechnologies, instagram: @lumentechnologies and youtube: /lumentechnologies.",0,No.
+34,public,lumen,1,Yes.
+34,public,lumen's,1,Yes.
+34,public,"news.lumen.com, linkedin: /lumentechnologies, twitter: @lumentechco, facebook: /lumentechnologies, instagram: @lumentechnologies and youtube: /lumentechnologies.",1,Yes.
+35,private,heforshe impact champion,1,Yes
+35,public,heforshe impact champion,1,Yes
+36,private,baseballcloud,1,Yes
+36,private,bogotá,1,Yes
+36,private,crete,1,Yes
+36,private,doane,1,Yes
+36,private,felipe lozano,1,yes
+36,private,foundever,1,Yes
+36,private,hudl,1,Yes
+36,private,lake mary,1,Yes
+36,private,lincoln,1,Yes
+36,private,take2,1,Yes
+36,private,vienna,1,Yes
+36,public,baseballcloud,0,No
+36,public,bogotá,1,Yes
+36,public,crete,1,Yes
+36,public,doane,1,Yes
+36,public,felipe lozano,1,yes
+36,public,foundever,1,Yes
+36,public,hudl,1,Yes
+36,public,lake mary,0,No
+36,public,lincoln,1,Yes
+36,public,take2,1,Yes
+36,public,vienna,1,Yes
+37,private,hse,1,Yes
+37,private,moscow,1,Yes
+37,private,pakistan,0,No.
+37,private,russian,0,No.
+37,public,hse,1,Yes.
+37,public,moscow,1,Yes
+37,public,pakistan,1,Yes
+37,public,russian,1,Yes.
+38,private,Punjab Provincial Cooperative Bank Limited,1,Yes
+38,public,Punjab Provincial Cooperative Bank Limited,1,Yes
+39,private,wolfram research,1,Yes
+39,public,wolfram research,1,Yes.
+40,private,xy,0,No.
+40,public,xy,0,No.
+41,private,aia bordeaux,1,Yes
+41,private,aia de bordeaux,1,Yes
+41,private,bordeaux,1,Yes
+41,public,aia bordeaux,1,Yes
+41,public,aia de bordeaux,1,Yes
+41,public,bordeaux,1,Yes
+42,private,dubai,1,Yes
+42,private,safran aerosystems,1,Yes
+42,private,safran aerosystems services,1,Yes
+42,public,dubai,1,Yes
+42,public,safran aerosystems,1,Yes
+42,public,safran aerosystems services,1,Yes
+43,private,stan store,0,No.
+43,public,stan store,1,Yes
+44,private,sparc,1,Yes
+44,public,sparc,1,Yes.
+45,private,us,1,Yes
+45,public,us,1,Yes.
+46,private,jazan,1,Yes
+46,private,jazan specialized hosp,1,Yes
+46,private,jeddah,1,Yes
+46,private,madinah,1,yes
+46,private,movenpick hotel,1,Yes
+46,private,radspeed pro auto,1,Yes
+46,private,shifa taiba hosp,1,Yes
+46,public,jazan,1,yes
+46,public,jazan specialized hosp,1,Yes
+46,public,jeddah,1,yes
+46,public,madinah,1,Yes
+46,public,movenpick hotel,1,Yes.
+46,public,radspeed pro auto,1,Yes
+46,public,shifa taiba hosp,1,Yes
+47,private,levy-cohen,1,yes
+47,private,london,1,Yes
+47,public,levy-cohen,1,yes
+47,public,london,1,yes
+48,private,christian dienst,0,No.
+48,private,daniel westling,1,Yes
+48,private,germany,1,Yes
+48,private,sotheby’s geneva,1,Yes
+48,private,steingaden,0,No.
+48,private,wieskirche,0,No.
+48,public,christian dienst,1,Yes
+48,public,daniel westling,0,No.
+48,public,germany,0,No.
+48,public,sotheby’s geneva,1,Yes.
+48,public,steingaden,0,No.
+48,public,wieskirche,1,Yes.
+49,private,may,1,yes
+49,public,may,1,yes
+50,private,shannon,1,Yes
+50,private,zinnira,1,Yes
+50,public,shannon,1,Yes
+50,public,zinnira,1,Yes
+51,private,allscripts,1,Yes
+51,private,athenahealth,1,Yes
+51,private,cerner corporation,1,Yes
+51,private,eclinicalworks,1,Yes
+51,private,epic systems,1,Yes
+51,private,ge healthcare,1,Yes
+51,private,mckesson corporation,1,Yes
+51,private,meditech,1,Yes
+51,private,nextgen healthcare,1,Yes
+51,public,allscripts,1,Yes
+51,public,athenahealth,1,Yes
+51,public,cerner corporation,1,Yes
+51,public,eclinicalworks,1,Yes
+51,public,epic systems,1,Yes
+51,public,ge healthcare,1,Yes
+51,public,mckesson corporation,1,Yes
+51,public,meditech,1,Yes.
+51,public,nextgen healthcare,1,Yes
+52,private,isaac ramos,1,yes
+52,private,miles jaworski,1,yes
+52,private,tanish kanga,1,yes
+52,public,isaac ramos,0,no
+52,public,miles jaworski,0,no
+52,public,tanish kanga,0,no
+53,private,murray,0,No.
+53,private,murray countertops,0,No.
+53,public,murray,0,No.
+53,public,murray countertops,0,No.
+54,private,apostar,1,Yes
+54,private,ms.yoyo,1,Yes
+54,public,apostar,1,Yes
+54,public,ms.yoyo,1,yes
+55,private,brno comac,1,yes
+55,private,comac c919,1,Yes
+55,public,brno comac,1,Yes
+55,public,comac c919,1,Yes
+56,private,brno flight systems,1,Yes
+56,private,juraj holaza,1,Yes
+56,public,brno flight systems,1,Yes
+56,public,juraj holaza,1,yes
+57,private,aeb,1,Yes
+57,private,ashghal,1,Yes
+57,private,bgc,1,Yes
+57,private,unigaz,1,Yes
+57,public,aeb,1,Yes
+57,public,ashghal,1,Yes
+57,public,bgc,1,Yes
+57,public,unigaz,1,Yes
+58,private,procter & gamble,1,Yes.
+58,public,procter & gamble,1,Yes.
+59,private,wadzpa,1,Yes.
+59,public,wadzpa,1,Yes.
+60,private,mih,1,Yes.
+60,public,mih,1,Yes
+61,private,Tehran,0,No.
+61,public,Tehran,1,Yes
+62,private,sary direct,1,yes
+62,public,sary direct,1,Yes
+63,private,crown point,1,Yes
+63,private,crown point corporation,1,yes
+63,private,epee inc.,1,Yes
+63,private,ghoti ltd.,1,Yes
+63,private,national bank,1,Yes
+63,private,sword corp.,1,Yes
+63,public,crown point,1,Yes.
+63,public,crown point corporation,1,Yes.
+63,public,epee inc.,1,Yes
+63,public,ghoti ltd.,1,Yes
+63,public,national bank,1,Yes
+63,public,sword corp.,1,Yes
+64,private,https://lmsweb.aast.edu/pluginfile.php/1025401/mod_resource/content/1/lecture%201.pdf,1,Yes.
+64,private,https://lmsweb.aast.edu/pluginfile.php/1025402/mod_resource/content/1/lecture%202.pdf,1,Yes.
+64,private,https://lmsweb.aast.edu/pluginfile.php/894552/mod_resource/content/1/lecture%203.pdf,1,Yes.
+64,private,https://lmsweb.aast.edu/pluginfile.php/894553/mod_resource/content/1/lecture%204.pdf,1,Yes.
+64,private,https://lmsweb.aast.edu/pluginfile.php/902460/mod_resource/content/1/lecture%205.pdf,1,Yes.
+64,private,https://lmsweb.aast.edu/pluginfile.php/915029/mod_resource/content/1/lecture%206.pdf,1,Yes.
+64,private,https://lmsweb.aast.edu/pluginfile.php/915030/mod_resource/content/1/lecture%207.pdf,1,Yes.
+64,private,https://lmsweb.aast.edu/pluginfile.php/915031/mod_resource/content/1/lecture%208.pdf,1,Yes.
+64,private,orange egypt,1,Yes
+64,public,https://lmsweb.aast.edu/pluginfile.php/1025401/mod_resource/content/1/lecture%201.pdf,1,Yes.
+64,public,https://lmsweb.aast.edu/pluginfile.php/1025402/mod_resource/content/1/lecture%202.pdf,1,Yes.
+64,public,https://lmsweb.aast.edu/pluginfile.php/894552/mod_resource/content/1/lecture%203.pdf,1,Yes.
+64,public,https://lmsweb.aast.edu/pluginfile.php/894553/mod_resource/content/1/lecture%204.pdf,1,Yes.
+64,public,https://lmsweb.aast.edu/pluginfile.php/902460/mod_resource/content/1/lecture%205.pdf,1,Yes.
+64,public,https://lmsweb.aast.edu/pluginfile.php/915029/mod_resource/content/1/lecture%206.pdf,1,Yes.
+64,public,https://lmsweb.aast.edu/pluginfile.php/915030/mod_resource/content/1/lecture%207.pdf,1,Yes.
+64,public,https://lmsweb.aast.edu/pluginfile.php/915031/mod_resource/content/1/lecture%208.pdf,1,Yes.
+64,public,orange egypt,1,Yes.
+65,private,600 9355,1,Yes
+65,public,600 9355,0,No.
+66,private,bombay super hybrid seeds ltd,1,yes
+66,public,bombay super hybrid seeds ltd,1,Yes.
+67,private,Christinia,0,No.
+67,private,Jacket Back and Full Jacket Back,1,Yes.
+67,public,Christinia,0,No.
+67,public,Jacket Back and Full Jacket Back,1,Yes
+68,private,"perdue farms, sanderson farms",0,No.
+68,private,sanderson farms,0,No.
+68,private,"tyson foods, sanderson farms",0,No.
+68,public,"perdue farms, sanderson farms",1,Yes.
+68,public,sanderson farms,1,Yes
+68,public,"tyson foods, sanderson farms",1,Yes
+69,private,name number and street name town or city county postcode,1,Yes
+69,public,name number and street name town or city county postcode,1,Yes
+70,private,accenture,1,Yes.
+70,public,accenture,1,Yes
+71,private,apple,0,No.
+71,private,jack,1,Yes.
+71,private,jack vogel,1,Yes
+71,private,ken french,0,No.
+71,private,wesley gray,0,No.
+71,public,apple,1,Yes.
+71,public,jack,1,Yes.
+71,public,jack vogel,1,Yes
+71,public,ken french,1,Yes.
+71,public,wesley gray,1,Yes
+72,private,sam,1,Yes
+72,public,sam,1,Yes
+73,private,abir aly,1,Yes
+73,private,aida,1,Yes
+73,public,abir aly,1,yes
+73,public,aida,1,Yes
+74,private,china,1,Yes.
+74,public,china,1,Yes.
+75,private,syri,1,Yes.
+75,public,syri,1,Yes.
+76,private,ovhcloud,0,No.
+76,public,ovhcloud,1,Yes
+77,private,alexander mann solutions,1,Yes
+77,private,mickael bauman,0,No
+77,public,alexander mann solutions,1,Yes.
+77,public,mickael bauman,1,yes
+78,private,France,1,Yes
+78,public,France,1,Yes
+79,private,reuben,0,no
+79,public,reuben,1,yes
+80,private,enter8000,0,No.
+80,private,enter8000 group,0,No.
+80,private,et8k group,0,No.
+80,public,enter8000,0,No.
+80,public,enter8000 group,0,No.
+80,public,et8k group,0,No.
+81,private,finelook store,1,yes
+81,public,finelook store,1,Yes.
+82,private,changting,1,yes
+82,public,changting,1,yes
+83,private,biden,1,Yes
+83,public,biden,1,Yes.
+84,private,bec,1,Yes
+84,private,lijun,0,No.
+84,private,monika,0,No.
+84,public,bec,1,Yes.
+84,public,lijun,0,No.
+84,public,monika,0,No.
+85,private,irvine,1,Yes
+85,private,laguna niguel,1,Yes
+85,private,orange county,1,Yes
+85,public,irvine,1,Yes
+85,public,laguna niguel,1,Yes
+85,public,orange county,1,Yes
+86,private,Engr.,1,Yes
+86,public,Engr.,1,Yes
+87,private,abdulmazid,1,yes
+87,private,marafiq,1,Yes
+87,private,radwa 08,1,yes
+87,private,tohama 0715,1,Yes
+87,public,abdulmazid,1,yes
+87,public,marafiq,1,Yes
+87,public,radwa 08,1,Yes
+87,public,tohama 0715,1,Yes
+88,private,google,1,Yes
+88,private,peking university,1,yes
+88,private,sensetime,1,yes
+88,private,trine university,1,yes
+88,public,google,1,Yes.
+88,public,peking university,1,yes
+88,public,sensetime,1,yes
+88,public,trine university,1,Yes
+89,private,american,0,No.
+89,private,google,1,Yes
+89,private,google pay team,1,Yes.
+89,private,india,0,No.
+89,private,singapore,0,No.
+89,public,american,0,No.
+89,public,google,1,Yes
+89,public,google pay team,1,Yes.
+89,public,india,1,Yes
+89,public,singapore,1,Yes
+90,private,elinext,1,yes
+90,public,elinext,1,yes
+91,private,msitu africa,1,Yes
+91,public,msitu africa,1,Yes.
+92,private,<presidio_anonymized_person>,1,Yes
+92,private,carlton hotel,1,yes
+92,public,<presidio_anonymized_person>,1,Yes
+92,public,carlton hotel,0,No.
+93,private,centric brands,1,yes
+93,public,centric brands,0,No.
+94,private,"cairo, egypt",0,No.
+94,private,caviish,1,Yes
+94,private,caviishofficial,0,No.
+94,private,egypt,0,No.
+94,private,"egypt, the gulf region, turky, north africa, europe, bollywood, hollywood",0,No.
+94,private,"london, uk",0,No.
+94,private,www.caviish.com/en,0,No.
+94,public,"cairo, egypt",0,No.
+94,public,caviish,1,Yes.
+94,public,caviishofficial,0,No.
+94,public,egypt,0,No.
+94,public,"egypt, the gulf region, turky, north africa, europe, bollywood, hollywood",0,No.
+94,public,"london, uk",0,No.
+94,public,www.caviish.com/en,1,Yes.
+95,private,momi,0,no
+95,public,momi,0,No.
+96,private,africa,1,Yes.
+96,private,kenya,1,Yes
+96,private,msitu africa,1,Yes
+96,public,africa,1,Yes.
+96,public,kenya,1,Yes
+96,public,msitu africa,1,Yes.
+97,private,byd,1,Yes
+97,private,catl,1,Yes
+97,private,chn energy,1,Yes
+97,private,envision,1,Yes
+97,private,gotion high-tech,1,Yes
+97,private,sunwoda energy,1,Yes
+97,public,byd,1,Yes
+97,public,catl,1,Yes
+97,public,chn energy,1,Yes
+97,public,envision,1,Yes
+97,public,gotion high-tech,1,Yes
+97,public,sunwoda energy,1,Yes
+98,private,"richmond street in london, ontario",0,No.
+98,private,toboggan,1,Yes
+98,private,toboggan brewing company,1,Yes
+98,public,"richmond street in london, ontario",1,Yes.
+98,public,toboggan,1,yes
+98,public,toboggan brewing company,1,yes
+99,private,markham,1,Yes
+99,public,markham,1,Yes.
+100,private,markham,1,Yes.
+100,public,markham,1,Yes.
+101,private,https://business.inquirer.net/404972/japans-wholesale-inflation-eases-goods-close-to-consumers-continue-to-rise,1,Yes.
+101,public,https://business.inquirer.net/404972/japans-wholesale-inflation-eases-goods-close-to-consumers-continue-to-rise,1,Yes.
+102,private,https://lnkd.in/ecsupber,0,No.
+102,public,https://lnkd.in/ecsupber,0,No.
+103,private,accel,0,No.
+103,private,kleiner,1,Yes.
+103,private,netscape,1,Yes
+103,private,uunet,0,No.
+103,public,accel,0,No.
+103,public,kleiner,1,Yes.
+103,public,netscape,1,Yes
+103,public,uunet,0,No.
+104,private,amsterdam,1,Yes
+104,private,frank,0,no
+104,private,vincent van lith,1,yes
+104,public,amsterdam,0,No.
+104,public,frank,1,Yes
+104,public,vincent van lith,0,No.
+105,private,liam,1,Yes
+105,private,liam's,1,Yes
+105,public,liam,1,Yes.
+105,public,liam's,1,Yes.
+106,private,caroline regis,1,Yes
+106,private,excel systems,1,Yes
+106,public,caroline regis,1,Yes
+106,public,excel systems,1,Yes.
+107,private,copenhagen,1,Yes
+107,public,copenhagen,1,Yes
+108,private,arnulfo b. aurellano,1,Yes
+108,private,banco filipino,1,Yes
+108,private,carlota p. valenzuela,1,Yes
+108,private,"jose b. fernandez, jr.",1,Yes
+108,private,ramon tiaoqui,1,Yes
+108,public,arnulfo b. aurellano,0,No.
+108,public,banco filipino,1,Yes.
+108,public,carlota p. valenzuela,0,No.
+108,public,"jose b. fernandez, jr.",0,No.
+108,public,ramon tiaoqui,0,No.
+109,private,breakthru,1,Yes.
+109,private,breakthru beverage group,1,Yes
+109,private,breakthru now,0,No.
+109,public,breakthru,1,Yes.
+109,public,breakthru beverage group,1,Yes
+109,public,breakthru now,1,Yes.
+110,private,abhi bhalla,1,yes
+110,private,geoff kenneck,1,Yes
+110,private,malvern,1,Yes
+110,public,abhi bhalla,0,no
+110,public,geoff kenneck,0,No.
+110,public,malvern,0,No.
+111,private,vanguard,1,Yes
+111,public,vanguard,1,Yes.
+112,private,abhi bhalla,1,Yes
+112,private,geoff kennik,1,Yes
+112,private,hanice demucci,1,yes
+112,private,sara devereau,1,Yes
+112,private,victoria decurrio,1,Yes
+112,public,abhi bhalla,1,Yes
+112,public,geoff kennik,1,Yes
+112,public,hanice demucci,1,Yes
+112,public,sara devereau,1,Yes
+112,public,victoria decurrio,1,Yes
+113,private,daniel hadgu,1,Yes
+113,private,kevin whit,1,Yes
+113,private,maya perkins,1,yes
+113,private,"maya perkins, alec dinwiddie",1,yes
+113,public,daniel hadgu,1,Yes
+113,public,kevin whit,1,Yes
+113,public,maya perkins,1,Yes
+113,public,"maya perkins, alec dinwiddie",1,Yes
+114,private,blacksun-global.com,1,Yes
+114,private,blacksunplc.co,0,No.
+114,private,blacksunplc.com,1,Yes
+114,public,blacksun-global.com,1,Yes
+114,public,blacksunplc.co,0,No.
+114,public,blacksunplc.com,1,Yes
+115,private,eleanora,1,Yes
+115,private,elenora,1,yes
+115,private,sandy,1,yes
+115,public,eleanora,1,Yes
+115,public,elenora,1,Yes
+115,public,sandy,1,Yes
+116,private,mishdad,1,Yes.
+116,public,mishdad,1,Yes
+117,private,insidesfocus,1,Yes
+117,public,insidesfocus,1,Yes
+118,private,shafaq hussain,1,Yes
+118,public,shafaq hussain,1,yes
+119,private,sana safinaz,1,yes
+119,public,sana safinaz,1,Yes
+120,private,india,1,Yes
+120,public,india,0,No.
+121,private,australia,1,Yes
+121,private,forefront securities,1,Yes
+121,private,india,1,Yes
+121,private,jay's freight,1,Yes
+121,private,jay's rentals,1,Yes
+121,private,life disability and nursing care,1,Yes
+121,private,staffin software,1,Yes.
+121,private,staffin softwares victoria,1,yes
+121,private,victoria,1,Yes
+121,public,australia,1,Yes.
+121,public,forefront securities,1,Yes
+121,public,india,1,Yes.
+121,public,jay's freight,1,Yes
+121,public,jay's rentals,1,Yes
+121,public,life disability and nursing care,1,Yes
+121,public,staffin software,1,Yes.
+121,public,staffin softwares victoria,1,Yes
+121,public,victoria,1,Yes.
+122,private,<presidio_anonymized_email_address>,1,Yes
+122,private,la société des lignes intérieures et internationales tunisair express,1,yes
+122,private,tunisair express,1,yes
+122,private,"« monsieur le directeur général de la société des lignes intérieures et internationales (tunisairexpress): immeuble magrebia tour a, 9 rue de l’artisanat- z.i la charguia ii -2035 tunis carthage »",1,Yes.
+122,public,<presidio_anonymized_email_address>,1,Yes
+122,public,la société des lignes intérieures et internationales tunisair express,1,Yes
+122,public,tunisair express,1,yes
+122,public,"« monsieur le directeur général de la société des lignes intérieures et internationales (tunisairexpress): immeuble magrebia tour a, 9 rue de l’artisanat- z.i la charguia ii -2035 tunis carthage »",1,Yes.
+123,private,campsystem,1,Yes
+123,private,ed1755,1,Yes
+123,private,frankfurt,1,Yes
+123,private,geven,1,Yes
+123,private,mounir,1,yes
+123,private,pw127m,1,Yes
+123,private,pwc,1,Yes
+123,private,riadh shil,1,Yes
+123,private,safran,1,Yes
+123,private,std aero,1,Yes
+123,private,te,1,Yes
+123,private,ts-lbd,1,Yes
+123,private,tt,1,Yes
+123,public,campsystem,1,Yes.
+123,public,ed1755,1,yes
+123,public,frankfurt,1,Yes
+123,public,geven,1,Yes.
+123,public,mounir,1,yes
+123,public,pw127m,1,Yes
+123,public,pwc,1,Yes
+123,public,riadh shil,1,yes
+123,public,safran,1,Yes.
+123,public,std aero,1,Yes.
+123,public,te,1,Yes.
+123,public,ts-lbd,1,Yes
+123,public,tt,1,Yes.
+124,private,السعودية,1,Yes
+124,private,مركز الإتصالات,1,Yes
+124,public,السعودية,1,yes
+124,public,مركز الإتصالات,0,No.
+125,private,<presidio_anonymized_person>,1,Yes
+125,private,dell emc,1,yes
+125,private,ecs,1,Yes
+125,private,mohamed maniieh,1,yes
+125,public,<presidio_anonymized_person>,1,Yes
+125,public,dell emc,1,Yes
+125,public,ecs,1,Yes
+125,public,mohamed maniieh,1,yes
+126,private,"wuhan cntsun new energy co., ltd.",1,yes
+126,public,"wuhan cntsun new energy co., ltd.",1,yes
+127,private,https://www.orascomdh.com/investor-relations/financial-info,0,No.
+127,public,https://www.orascomdh.com/investor-relations/financial-info,1,Yes.
+128,private,澳洲前100企业,1,Yes
+128,public,澳洲前100企业,1,Yes
+129,private,silvercord,1,Yes
+129,private,silvercord yl,1,Yes
+129,private,yakiniku like,1,Yes
+129,private,yl,1,Yes.
+129,public,silvercord,1,Yes
+129,public,silvercord yl,1,Yes
+129,public,yakiniku like,1,Yes
+129,public,yl,1,Yes.
+130,private,zodvboz,1,Yes
+130,public,zodvboz,1,Yes
+131,private,south western railway,1,Yes
+131,public,south western railway,1,Yes.
+132,private,google,1,Yes.
+132,public,google,1,Yes.
+133,private,gettyimages,1,Yes
+133,public,gettyimages,1,Yes.
+134,private,company a,1,Yes
+134,private,jim,1,yes
+134,public,company a,0,No.
+134,public,jim,0,No.
+135,private,x,1,Yes.
+135,public,x,0,No.
+136,private,collier construction,0,No.
+136,private,"earth movers, inc.",1,Yes
+136,private,john and patty driver,1,Yes
+136,private,kevin davenport,0,no
+136,private,mcnamer,1,Yes
+136,private,mcnamer construction company,1,Yes
+136,private,mission landscaping,1,Yes
+136,private,modern office co.,1,Yes
+136,private,shapiro realty,0,No.
+136,private,susquehanna equipment rentals,1,Yes.
+136,private,"susquehanna equipment rentals, mission landscaping, collier construction",0,"- **Susquehanna Equipment Rentals**: Yes  
+- **Mission Landscaping**: Yes  
+- **Collier Construction**: No"
+136,private,universal utilities,1,Yes
+136,public,collier construction,0,No.
+136,public,"earth movers, inc.",0,No.
+136,public,john and patty driver,0,no
+136,public,kevin davenport,0,no
+136,public,mcnamer,0,No.
+136,public,mcnamer construction company,0,no
+136,public,mission landscaping,0,No.
+136,public,modern office co.,0,No.
+136,public,shapiro realty,0,No.
+136,public,susquehanna equipment rentals,1,Yes.
+136,public,"susquehanna equipment rentals, mission landscaping, collier construction",1,yes
+136,public,universal utilities,0,No.
+137,private,australian and new zealand college of anaesthetists,1,Yes
+137,public,australian and new zealand college of anaesthetists,1,Yes
+138,private,anika grant,1,yes
+138,private,grant,1,yes
+138,private,ubisoft,1,yes
+138,public,anika grant,1,yes
+138,public,grant,1,yes
+138,public,ubisoft,1,yes
+139,private,fort worth,1,Yes
+139,public,fort worth,1,Yes.
+140,private,little rock,1,Yes
+140,public,little rock,1,Yes
+141,private,memphis tn,1,Yes
+141,public,memphis tn,1,Yes
+142,private,snowflake,1,Yes
+142,public,snowflake,1,Yes.
+143,private,jj martinez,1,Yes
+143,private,key to the world,1,Yes.
+143,public,jj martinez,1,Yes.
+143,public,key to the world,1,Yes.
+144,private,florida,1,Yes
+144,private,wendy’s,1,Yes
+144,public,florida,1,Yes
+144,public,wendy’s,1,Yes
+145,private,soskill,1,Yes
+145,public,soskill,1,Yes
+146,private,facebook,1,Yes.
+146,public,facebook,1,Yes.
+147,private,<PRESIDIO_ANONYMIZED_PERSON>,1,Yes
+147,public,<PRESIDIO_ANONYMIZED_PERSON>,1,Yes
+148,private,demone johnson,1,Yes
+148,public,demone johnson,1,Yes
+149,private,mi,1,Yes.
+149,public,mi,1,Yes.
+150,private,compass,1,Yes
+150,private,paul giles,1,Yes
+150,private,the vintage team,1,Yes
+150,public,compass,1,Yes
+150,public,paul giles,1,Yes
+150,public,the vintage team,1,Yes
+151,private,mindinventory,1,Yes
+151,public,mindinventory,1,Yes.
+152,private,"bridgend, wales",0,No.
+152,private,buybox,0,No.
+152,private,canada,0,No.
+152,private,canadian,0,No.
+152,private,canadian dollars,0,No.
+152,private,canadian dollars (cad),0,No.
+152,private,fedex,1,Yes
+152,private,fedex cross border,1,Yes
+152,private,fedex fc,1,Yes
+152,private,green mountain,0,No.
+152,private,jd.com,0,No.
+152,private,marketplace,1,Yes
+152,private,nodor,0,No.
+152,private,northern ireland,0,No.
+152,private,payoneer,1,Yes
+152,private,pertemba,0,No.
+152,private,rakuten.com,0,No.
+152,private,statsports,0,No.
+152,private,u.k.,0,No.
+152,private,usd,0,No.
+152,private,walmart,1,Yes
+152,private,walmart connect,1,Yes
+152,private,walmart cross-border trade e-commerce marketplace,1,Yes
+152,private,walmart cross-border trade e-commerce marketplace integration planform,1,Yes
+152,private,walmart e-commerce,1,Yes.
+152,private,walmart ecommerce usa’s marketplace.walmart.com,0,No.
+152,private,walmart fulfillment services (wfs),1,Yes
+152,private,walmart international online marketplaces,1,Yes.
+152,private,walmart.ca,0,No.
+152,private,walmart.com,0,No.
+152,private,walmart’s,1,Yes
+152,private,walmart’s strategic partners,1,Yes.
+152,private,wfs,1,Yes
+152,private,"world first, tipalti",0,No.
+152,public,"bridgend, wales",0,No.
+152,public,buybox,0,No.
+152,public,canada,1,Yes
+152,public,canadian,1,Yes.
+152,public,canadian dollars,1,Yes.
+152,public,canadian dollars (cad),1,Yes.
+152,public,fedex,1,Yes
+152,public,fedex cross border,1,Yes.
+152,public,fedex fc,1,Yes
+152,public,green mountain,1,Yes
+152,public,jd.com,1,Yes
+152,public,marketplace,1,Yes.
+152,public,nodor,0,No.
+152,public,northern ireland,0,No.
+152,public,payoneer,1,Yes
+152,public,pertemba,0,No.
+152,public,rakuten.com,1,Yes.
+152,public,statsports,0,No.
+152,public,u.k.,1,Yes
+152,public,usd,0,No.
+152,public,walmart,1,Yes
+152,public,walmart connect,0,No.
+152,public,walmart cross-border trade e-commerce marketplace,1,Yes
+152,public,walmart cross-border trade e-commerce marketplace integration planform,1,Yes
+152,public,walmart e-commerce,1,Yes.
+152,public,walmart ecommerce usa’s marketplace.walmart.com,1,Yes.
+152,public,walmart fulfillment services (wfs),0,No.
+152,public,walmart international online marketplaces,1,Yes.
+152,public,walmart.ca,0,No.
+152,public,walmart.com,0,No.
+152,public,walmart’s,1,Yes
+152,public,walmart’s strategic partners,1,Yes.
+152,public,wfs,0,No.
+152,public,"world first, tipalti",0,No.
+153,private,prefchem,1,Yes
+153,public,prefchem,1,Yes
+154,private,pengerang,1,Yes
+154,public,pengerang,1,Yes
+155,private,a,1,Yes.
+155,private,b,1,Yes.
+155,public,a,0,No.
+155,public,b,0,No.
+156,private,mi,1,Yes.
+156,public,mi,1,Yes.
+157,private,https://seekingalpha.com/article/4615385-palantir-a-reality-check-amid-the-hype?utm_source=simplywall.st&utm_medium=referral,1,Yes.
+157,public,https://seekingalpha.com/article/4615385-palantir-a-reality-check-amid-the-hype?utm_source=simplywall.st&utm_medium=referral,1,Yes.
+158,private,innocent,1,Yes.
+158,private,tropicana,1,Yes
+158,public,innocent,1,Yes
+158,public,tropicana,1,Yes
+159,private,newvantage partners,1,Yes.
+159,private,randy bean,0,No.
+159,private,thomas h. davenport,0,No.
+159,public,newvantage partners,1,Yes.
+159,public,randy bean,1,yes
+159,public,thomas h. davenport,1,Yes
+160,private,kazuo ueda,1,yes
+160,public,kazuo ueda,0,no
+161,private,-123004,0,No
+161,private,"dubai, united arab emirates",1,Yes
+161,private,middle east,1,Yes.
+161,private,safran,1,Yes
+161,private,safran aerosystems,1,Yes
+161,private,safran aerosystems services,1,Yes
+161,public,-123004,1,Yes
+161,public,"dubai, united arab emirates",1,Yes
+161,public,middle east,1,Yes
+161,public,safran,1,Yes
+161,public,safran aerosystems,1,Yes
+161,public,safran aerosystems services,1,Yes
+162,private,kec tkoh,1,Yes
+162,private,miniu,1,Yes
+162,private,miniu limited (miniu),1,Yes
+162,private,roy,1,yes
+162,private,tkoh,1,Yes
+162,private,tkoh/nsd,1,Yes
+162,public,kec tkoh,1,Yes
+162,public,miniu,1,Yes
+162,public,miniu limited (miniu),1,Yes
+162,public,roy,1,Yes.
+162,public,tkoh,1,Yes
+162,public,tkoh/nsd,1,Yes
+163,private,mecca,1,Yes
+163,private,saudi,1,Yes
+163,public,mecca,1,yes
+163,public,saudi,0,no
+164,private,presidio_anonymized_person,0,No.
+164,public,presidio_anonymized_person,1,Yes
+165,private,klump,1,Yes
+165,private,kosovo,1,Yes
+165,public,klump,1,Yes
+165,public,kosovo,1,Yes
+166,private,shumti and co,1,Yes.
+166,public,shumti and co,1,Yes
+167,private,<presidio_anonymized_person>,1,Yes
+167,public,<presidio_anonymized_person>,1,Yes
+168,private,hwang guen min,1,yes
+168,private,kim young hyun,1,yes
+168,public,hwang guen min,1,yes
+168,public,kim young hyun,1,yes
+169,private,dem jointz,0,no
+169,private,kanye west,0,No.
+169,private,yeezy,0,No.
+169,public,dem jointz,0,no
+169,public,kanye west,0,no
+169,public,yeezy,0,no
+170,private,ivan klimkovic,1,yes
+170,public,ivan klimkovic,1,yes
+171,private,apostar,1,Yes
+171,private,ms.yoyo,1,Yes
+171,public,apostar,1,Yes
+171,public,ms.yoyo,1,Yes
+172,private,aaliya,1,yes
+172,public,aaliya,1,Yes
+173,private,pa-5450s dg,1,Yes
+173,private,rns,1,Yes.
+173,public,pa-5450s dg,1,Yes
+173,public,rns,1,Yes
+174,private,alet,0,no
+174,private,dr.anya,0,no
+174,public,alet,0,no
+174,public,dr.anya,0,no
+175,private,blessing,1,Yes
+175,public,blessing,1,Yes
+176,private,salar,0,no
+176,private,waqas,0,no
+176,public,salar,1,yes
+176,public,waqas,1,yes
+177,private,oscar,1,Yes
+177,public,oscar,1,Yes.
+178,private,closed ai,0,No
+178,private,elon musk,0,no
+178,private,openai,0,No
+178,public,closed ai,0,No.
+178,public,elon musk,1,yes
+178,public,openai,0,no
+179,private,openai,0,no
+179,public,openai,0,No.
+180,private,companyadress,1,yes
+180,public,companyadress,1,Yes
+181,private,eman al heirat,1,Yes
+181,private,nour,1,Yes.
+181,public,eman al heirat,0,No.
+181,public,nour,1,Yes
+182,private,#100,0,No
+182,private,#29,0,No
+182,private,https://github.com/samagra-development/ai-tools#setup,0,No.
+182,private,rishav-eulb/rishav-eulb-patch-2,0,no
+182,public,#100,0,No
+182,public,#29,0,No
+182,public,https://github.com/samagra-development/ai-tools#setup,0,No.
+182,public,rishav-eulb/rishav-eulb-patch-2,0,No.
+183,private,k2,1,Yes
+183,public,k2,1,Yes.
+184,private,bec,1,Yes
+184,private,lijun,0,No.
+184,private,monika,0,No.
+184,public,bec,0,No.
+184,public,lijun,0,No.
+184,public,monika,0,No.
+185,private,america,1,Yes
+185,private,facebook,1,Yes
+185,private,ipad,0,no
+185,public,america,0,No.
+185,public,facebook,0,No.
+185,public,ipad,0,No.
+186,private,chris,1,Yes
+186,public,chris,1,Yes
+187,private,erik,0,No.
+187,private,thailand,1,Yes
+187,public,erik,1,Yes
+187,public,thailand,1,Yes
+188,private,<presidio_anonymized_person>,1,Yes
+188,private,carlton hotel,1,Yes
+188,public,<presidio_anonymized_person>,1,Yes
+188,public,carlton hotel,1,Yes.
+189,private,beverly,1,Yes.
+189,private,sarah,1,Yes.
+189,public,beverly,1,Yes.
+189,public,sarah,1,Yes.
+190,private,acacdemy kids,1,yes
+190,public,acacdemy kids,0,no
+191,private,help.openai.co,1,Yes.
+191,public,help.openai.co,0,No.
+192,private,anonymous,0,No.
+192,private,badhairday,0,No.
+192,private,chingling,0,No.
+192,private,harry,0,no
+192,private,henry,0,No.
+192,private,honey,0,No.
+192,private,itv,0,No.
+192,private,joeye,0,no
+192,private,johnstone,0,No.
+192,private,josh atkinson,0,no
+192,private,odeon at renfied street,0,No.
+192,private,sauchiehall street,1,Yes
+192,private,"sauchiehall street, glasgow",1,Yes.
+192,private,st enoch centre,0,No.
+192,private,stv,0,No.
+192,private,the fort shopping centre near the barrowland ballroom,0,No.
+192,private,uk,1,Yes.
+192,private,universal credit,0,No.
+192,public,anonymous,0,No.
+192,public,badhairday,0,No.
+192,public,chingling,0,No.
+192,public,harry,0,No.
+192,public,henry,1,Yes
+192,public,honey,0,No.
+192,public,itv,0,No
+192,public,joeye,0,No.
+192,public,johnstone,0,No.
+192,public,josh atkinson,0,no
+192,public,odeon at renfied street,0,No.
+192,public,sauchiehall street,1,Yes.
+192,public,"sauchiehall street, glasgow",1,Yes.
+192,public,st enoch centre,0,No.
+192,public,stv,0,No
+192,public,the fort shopping centre near the barrowland ballroom,0,No.
+192,public,uk,1,Yes.
+192,public,universal credit,0,No.
+193,private,telus,1,Yes
+193,public,telus,1,Yes.
+194,private,imv,1,Yes.
+194,public,imv,1,Yes.
+195,private,elle,1,yes
+195,private,mark,1,yes
+195,public,elle,1,yes
+195,public,mark,1,Yes
+196,private,"the university of hagen, germany",1,Yes
+196,private,"the university of nebraska, omaha (usa)",1,Yes
+196,private,the university of technology malaysia,1,Yes
+196,public,"the university of hagen, germany",1,Yes
+196,public,"the university of nebraska, omaha (usa)",1,Yes
+196,public,the university of technology malaysia,1,Yes
+197,private,la société des lignes intérieures et internationales tunisair express,1,yes
+197,private,"monsieur le directeur général de la société des lignes intérieures et internationales (tunisairexpress) : immeuble magrebia tour a, 9 rue de l’artisanat- z.i la charguia ii -2035 tunis carthage",1,Yes
+197,private,presidio_anonymized_email_address,1,Yes
+197,private,tunisair express,1,yes
+197,public,la société des lignes intérieures et internationales tunisair express,1,Yes.
+197,public,"monsieur le directeur général de la société des lignes intérieures et internationales (tunisairexpress) : immeuble magrebia tour a, 9 rue de l’artisanat- z.i la charguia ii -2035 tunis carthage",1,Yes.
+197,public,presidio_anonymized_email_address,1,Yes.
+197,public,tunisair express,1,yes
+198,private,blair,1,Yes
+198,private,g hobeika,1,Yes
+198,private,hannah,1,Yes
+198,private,lebal.paris,1,Yes
+198,private,libas,1,Yes
+198,private,sender's name,1,Yes
+198,private,your name,1,Yes
+198,public,blair,1,Yes
+198,public,g hobeika,1,Yes
+198,public,hannah,1,Yes
+198,public,lebal.paris,1,Yes
+198,public,libas,1,Yes
+198,public,sender's name,1,Yes
+198,public,your name,1,Yes.
+199,private,krysta,0,No.
+199,public,krysta,0,No.
+200,private,ca422836f04b1009431be3,0,No.
+200,private,ca422836f04b1bb3ee4a3,0,No.
+200,private,e2f7d7d6f2382009431be4447,0,No.
+200,private,e2f7d7d6f31be4dbb3ee447,0,No.
+200,public,ca422836f04b1009431be3,1,Yes
+200,public,ca422836f04b1bb3ee4a3,0,No
+200,public,e2f7d7d6f2382009431be4447,1,Yes
+200,public,e2f7d7d6f31be4dbb3ee447,0,No
+201,private,3d real estate rendering solutions for chicago.,1,Yes.
+201,private,3d views bring to life a colorado residence project.,1,Yes.
+201,private,achieving design success with jofran's cg rendering services.,1,Yes.
+201,private,bathroom fixtures reimagined with 3d rendering for hotbath.,1,Yes
+201,private,beautiful architectural 3d renderings for a greek residence.,1,Yes
+201,private,comprehensive guide on 3d architectural rendering in the usa.,0,No.
+201,private,creative restaurant design 3d rendering from lavittas creole.,1,Yes
+201,private,custom rendering solutions spotlighting george chebib's creations.,1,Yes.
+201,private,"detailed interior and exterior renderings of a villa in georgia, usa.",1,Yes
+201,private,discover 3d renderings tailored for los angeles projects.,1,Yes
+201,private,elevate your living space with ezenzial's 3d rendered offerings.,1,Yes.
+201,private,elevating online product visualization for better bona.,1,Yes.
+201,private,enhancing children's furniture appeal with 3d rendering.,1,Yes.
+201,private,enhancing product design development with photorealistic cgi.,1,Yes
+201,private,explore 3d architectural rendering case studies for new york.,1,Yes
+201,private,fusion furniture’s designs showcased through 3d modeling.,1,Yes
+201,private,highlighting 3d rendering impact on florida real estate market.,1,Yes.
+201,private,homeandwe's product range enhanced with detailed 3d renderings.,1,Yes.
+201,private,innovating product presentation with 3d rendered images for clawz.,1,Yes.
+201,private,innovative 3d animation for real estate in the united states.,1,Yes.
+201,private,insights into 3d architectural rendering across canada.,1,Yes
+201,private,leveraging online marketing tools for bdi furniture with cgi.,1,Yes.
+201,private,photorealistic product renderings revolutionize lamvin's offerings.,1,Yes.
+201,private,realistic 3d renders transformation in deschamps case study.,1,Yes.
+201,private,showcasing 3d rendering expertise for pennsylvania projects.,1,Yes
+201,private,showcasing dorel home with engaging cg product images.,1,Yes.
+201,private,troy smith’s designs brought to life with photoreal modeling.,1,Yes
+201,private,uk projects enhanced with 3d architectural visualization.,1,Yes
+201,private,using 3d rendering to enhance james james's website.,1,Yes.
+201,private,visualizing clubhouses with architectural exterior 3d visualization.,1,Yes
+201,public,3d real estate rendering solutions for chicago.,0,No.
+201,public,3d views bring to life a colorado residence project.,0,No.
+201,public,achieving design success with jofran's cg rendering services.,0,No.
+201,public,bathroom fixtures reimagined with 3d rendering for hotbath.,0,No.
+201,public,beautiful architectural 3d renderings for a greek residence.,0,No.
+201,public,comprehensive guide on 3d architectural rendering in the usa.,0,No.
+201,public,creative restaurant design 3d rendering from lavittas creole.,0,No.
+201,public,custom rendering solutions spotlighting george chebib's creations.,0,No.
+201,public,"detailed interior and exterior renderings of a villa in georgia, usa.",0,No.
+201,public,discover 3d renderings tailored for los angeles projects.,0,No.
+201,public,elevate your living space with ezenzial's 3d rendered offerings.,0,No.
+201,public,elevating online product visualization for better bona.,0,No.
+201,public,enhancing children's furniture appeal with 3d rendering.,0,No.
+201,public,enhancing product design development with photorealistic cgi.,0,No.
+201,public,explore 3d architectural rendering case studies for new york.,0,No.
+201,public,fusion furniture’s designs showcased through 3d modeling.,0,No.
+201,public,highlighting 3d rendering impact on florida real estate market.,0,No.
+201,public,homeandwe's product range enhanced with detailed 3d renderings.,0,No.
+201,public,innovating product presentation with 3d rendered images for clawz.,0,No.
+201,public,innovative 3d animation for real estate in the united states.,0,No.
+201,public,insights into 3d architectural rendering across canada.,0,No.
+201,public,leveraging online marketing tools for bdi furniture with cgi.,0,No.
+201,public,photorealistic product renderings revolutionize lamvin's offerings.,0,No.
+201,public,realistic 3d renders transformation in deschamps case study.,0,No.
+201,public,showcasing 3d rendering expertise for pennsylvania projects.,0,No.
+201,public,showcasing dorel home with engaging cg product images.,0,No.
+201,public,troy smith’s designs brought to life with photoreal modeling.,0,No.
+201,public,uk projects enhanced with 3d architectural visualization.,0,No.
+201,public,using 3d rendering to enhance james james's website.,0,No.
+201,public,visualizing clubhouses with architectural exterior 3d visualization.,0,No.
+202,private,centric brands,1,Yes
+202,public,centric brands,1,yes
+203,private,<presidio_anonymized_person,0,No
+203,private,<presidio_anonymized_person>,1,Yes
+203,public,<presidio_anonymized_person,1,Yes
+203,public,<presidio_anonymized_person>,1,Yes
+204,private,australian and new zealand college of anaesthetists,1,Yes
+204,public,australian and new zealand college of anaesthetists,1,Yes
+205,private,dr. hossam,1,yes
+205,private,engr. osama,1,yes
+205,private,ms. ehsan,1,yes
+205,public,dr. hossam,1,Yes
+205,public,engr. osama,1,Yes
+205,public,ms. ehsan,1,Yes
+206,private,920027778,1,Yes
+206,public,920027778,1,Yes.
+207,private,xyz,1,Yes
+207,public,xyz,0,No
+208,private,sarah,1,yes
+208,public,sarah,1,yes
+209,private,fucking niggafaggots,0,No.
+209,public,fucking niggafaggots,1,Yes.
+210,private,arlington,1,Yes
+210,private,city of arlington,1,Yes
+210,private,mrs. dipert,1,Yes
+210,private,troy williams,1,Yes
+210,public,arlington,1,Yes
+210,public,city of arlington,1,Yes
+210,public,mrs. dipert,1,Yes
+210,public,troy williams,0,No.
+211,private,katie,1,Yes
+211,private,nate,1,Yes
+211,private,uptown springdale,0,no
+211,public,katie,0,no
+211,public,nate,1,yes
+211,public,uptown springdale,0,no
+212,private,danish,1,yes
+212,private,hameedi sahib,1,Yes
+212,private,morwared,1,yes
+212,public,danish,1,Yes
+212,public,hameedi sahib,1,Yes
+212,public,morwared,1,Yes
+213,private,centric,1,yes
+213,public,centric,1,Yes
+214,private,tearms,1,Yes
+214,public,tearms,1,Yes.
+215,private,closed ai,0,No.
+215,private,elon musk,0,no
+215,private,https://image.pollinations.ai/prompt/,0,No.
+215,private,victoria,1,yes
+215,public,closed ai,0,No.
+215,public,elon musk,0,no
+215,public,https://image.pollinations.ai/prompt/,0,No
+215,public,victoria,0,no
+216,private,belal,1,Yes.
+216,public,belal,1,Yes
+218,private,"guangxi, china",0,No.
+218,public,"guangxi, china",0,No.
+219,private,lisa godfrey,1,Yes
+219,private,lucy,1,Yes
+219,private,lucy godfrey,1,Yes
+219,public,lisa godfrey,1,yes
+219,public,lucy,1,yes
+219,public,lucy godfrey,1,yes
+220,private,healthylife,1,Yes.
+220,private,oakland park,1,Yes.
+220,private,oakland park medical center,1,Yes
+220,private,oakland park urgent care,1,Yes
+220,public,healthylife,1,Yes
+220,public,oakland park,1,Yes
+220,public,oakland park medical center,1,Yes
+220,public,oakland park urgent care,1,Yes
+221,private,sandra trevino,1,yes
+221,private,trevino,1,yes
+221,public,sandra trevino,1,yes
+221,public,trevino,1,yes
+222,private,eman al heirat,1,Yes.
+222,private,nour,1,Yes.
+222,public,eman al heirat,0,No.
+222,public,nour,1,Yes.
+223,private,florida,1,Yes
+223,private,lauderhill,0,No.
+223,private,oakland park,0,No.
+223,public,florida,0,No.
+223,public,lauderhill,0,No.
+223,public,oakland park,0,no
+224,private,sarah,1,yes
+224,public,sarah,1,Yes
+225,private,mam lebogang channe,1,Yes
+225,private,mam nthabiseng and mr mhlanga,1,Yes
+225,private,mam yolanda,1,Yes
+225,private,nkazimulo zulu,1,Yes
+225,private,teacher yolanda,1,Yes
+225,private,teacher yolanda mouton,1,Yes
+225,public,mam lebogang channe,1,Yes
+225,public,mam nthabiseng and mr mhlanga,1,Yes
+225,public,mam yolanda,0,no
+225,public,nkazimulo zulu,1,yes
+225,public,teacher yolanda,1,Yes
+225,public,teacher yolanda mouton,1,Yes
+226,private,belal,0,No.
+226,public,belal,1,Yes
+227,private,iran,1,Yes
+227,public,iran,1,Yes.
+228,private,india,1,Yes.
+228,public,india,1,Yes.
+229,private,Texas,1,Yes.
+229,public,Texas,1,Yes
+230,private,germany,1,yes
+230,private,illumina,1,Yes
+230,private,illumina novaseq6000,1,yes
+230,private,"illumina, usa",1,Yes
+230,private,qiagen,1,Yes
+230,private,truseq® rna sample preparation kit,1,Yes
+230,private,usa,1,Yes
+230,public,germany,1,yes
+230,public,illumina,1,Yes
+230,public,illumina novaseq6000,1,yes
+230,public,"illumina, usa",1,Yes
+230,public,qiagen,1,yes
+230,public,truseq® rna sample preparation kit,1,Yes
+230,public,usa,1,Yes
+231,private,"c-bay systems india private limited – vikhroli east, mumbai - india",0,No.
+231,private,"chinai transcriptions private limited – nandanam, chennai - india",0,No.
+231,private,city land glass & aluminium factory abu dhabi - uae,0,No.
+231,private,"healthsoft india pvt ltd - t. nagar, chennai – india",0,No.
+231,private,"horizon technologies private limited – mylapore, chennai – india",0,No.
+231,private,mohamed sathak polytechnic college – kilakarai,0,No.
+231,private,s10 healthcare solutions ltd – chennai,0,No.
+231,private,"source mt private ltd – aminjikarai, chennai – india",0,No.
+231,private,v transcriptions llc – chennai,0,No.
+231,public,"c-bay systems india private limited – vikhroli east, mumbai - india",0,No.
+231,public,"chinai transcriptions private limited – nandanam, chennai - india",0,No.
+231,public,city land glass & aluminium factory abu dhabi - uae,0,No.
+231,public,"healthsoft india pvt ltd - t. nagar, chennai – india",0,No.
+231,public,"horizon technologies private limited – mylapore, chennai – india",0,No.
+231,public,mohamed sathak polytechnic college – kilakarai,0,No.
+231,public,s10 healthcare solutions ltd – chennai,0,No.
+231,public,"source mt private ltd – aminjikarai, chennai – india",0,No.
+231,public,v transcriptions llc – chennai,1,Yes
+232,private,x,1,Yes.
+232,public,x,1,Yes.
+233,private,belal,1,Yes
+233,public,belal,1,Yes
+234,private,abcam inc.,1,Yes
+234,private,"san francisco, usa",1,Yes
+234,public,abcam inc.,1,Yes
+234,public,"san francisco, usa",1,Yes
+235,private,florida,1,Yes
+235,private,lauderhill,1,Yes
+235,private,oakland park,1,Yes
+235,public,florida,1,Yes
+235,public,lauderhill,1,Yes
+235,public,oakland park,1,Yes
+236,private,amos tversky,1,Yes
+236,private,daniel kahneman,1,Yes
+236,private,simon,1,Yes
+236,public,amos tversky,1,Yes
+236,public,daniel kahneman,1,Yes
+236,public,simon,1,Yes

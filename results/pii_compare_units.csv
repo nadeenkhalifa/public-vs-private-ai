@@ -1,0 +1,1362 @@
+q_index,source,unit,found_by_other
+0,pupa,h&r technology,True
+0,pupa,johnny,True
+0,pupa,johnny bay,True
+0,pupa,rachel,False
+0,pupa,rachel zheng,False
+0,pupa,univeristy of westminster,True
+0,pupa,westminster,True
+0,qwen,h&r technology,True
+0,qwen,johnny,True
+0,qwen,johnny bay,True
+0,qwen,univeristy of westminster,True
+0,qwen,westminster,True
+1,pupa,university,True
+1,qwen,university,True
+2,pupa,Sudan,True
+2,qwen,1. royal college of emergency medicine,False
+2,qwen,2. sudan,True
+3,pupa,krzysztof kieślowski,True
+3,qwen,krzysztof kieślowski,True
+4,pupa,sparc,True
+4,qwen,sparc,True
+5,pupa,"wipro, noida",True
+5,qwen,noida,True
+5,qwen,wipro,True
+6,pupa,mallott’s general store,True
+6,qwen,mallott’s general store,True
+7,pupa,seattle/king county,True
+7,qwen,communities in seattle/king county,True
+7,qwen,seattle,True
+8,pupa,"beijing shou’an human resources consulting service co., ltd.",True
+8,pupa,"dagong global credit rating co., ltd.",True
+8,pupa,north polytechnic university,True
+8,pupa,weijia,True
+8,pupa,weijia huang,True
+8,qwen,1. weijia huang,True
+8,qwen,"10. beijing shou’an human resources consulting service co., ltd.",True
+8,qwen,2. north polytechnic university,True
+8,qwen,3. weijia huang,True
+8,qwen,4. weijia huang,True
+8,qwen,5. weijia huang,True
+8,qwen,6. weijia huang,True
+8,qwen,7. weijia huang,True
+8,qwen,8. weijia huang,True
+8,qwen,"9. dagong global credit rating co., ltd.",True
+9,pupa,hanisha,True
+9,pupa,jacob,True
+9,qwen,hanisha,True
+9,qwen,jacob,True
+10,pupa,d,False
+10,pupa,indian,False
+10,pupa,mahsa zandiyeh,True
+10,pupa,mr.rana,True
+10,qwen,mahsa zandiyeh,True
+10,qwen,rana,True
+11,pupa,Rujing,False
+12,pupa,<presidio_anonymized_person>,True
+12,qwen,<presidio_anonymized_person>,True
+13,pupa,akhil bhartiya natra sang,True
+13,pupa,mgs hospital,True
+13,pupa,pidilite company,True
+13,pupa,seema taneja,True
+13,pupa,swayam trust ngo,True
+13,qwen,1. seema taneja,True
+13,qwen,2. bcom,False
+13,qwen,3. pidilite,True
+13,qwen,4. mgs,True
+13,qwen,5. akhil bhartiya natra sang,True
+13,qwen,6. swayam trust,True
+14,pupa,lualhati,False
+15,pupa,alexander mann solutions,True
+15,pupa,mickael bauman,True
+15,qwen,alexander mann solutions,True
+15,qwen,mickael bauman,True
+16,pupa,France,False
+17,pupa,division of administration,False
+17,pupa,dos,False
+17,pupa,hqcss,False
+17,pupa,new york,False
+18,pupa,dubai,True
+18,qwen,dubai,True
+19,pupa,ani pansari +852 5611 0584 | pansariani@icloud.com,True
+19,pupa,camp beaumont asia,True
+19,pupa,"corvinus university, budapest",True
+19,pupa,esf quarry bay school,True
+19,pupa,eyelevel prestige education center limited,True
+19,pupa,ics learn,True
+19,pupa,"monash college, melbourne",True
+19,pupa,"monash university, melbourne",True
+19,pupa,soskely,True
+19,pupa,stamford american school hk,True
+19,qwen,+852 5611 0584,True
+19,qwen,01/2022 – 08/2022,False
+19,qwen,06/2023 – 08/2023,False
+19,qwen,07/2022 – 08/2022,False
+19,qwen,08/2023 – 03/2024,False
+19,qwen,09/2017 – 01/2019,False
+19,qwen,2019 – 2020,False
+19,qwen,2020 – 2023,False
+19,qwen,2022 – 2023,False
+19,qwen,2024,False
+19,qwen,2028,False
+19,qwen,ani pansari,True
+19,qwen,camp beaumont asia,True
+19,qwen,cipd,False
+19,qwen,"corvinus university, budapest",True
+19,qwen,deloitte,False
+19,qwen,esf quarry bay school,True
+19,qwen,eyelevel prestige education center limited,True
+19,qwen,ics learn,True
+19,qwen,"monash college, melbourne",True
+19,qwen,"monash university, melbourne",True
+19,qwen,pansariani@icloud.com,True
+19,qwen,soskely hong kong rugby sevens harm reduction,True
+19,qwen,stamford american school hk,True
+19,qwen,subclass 485 visa,False
+20,pupa,[location not specified in the original text],False
+20,pupa,hse university,True
+20,pupa,russian ministry of education,True
+20,qwen,1. russian,True
+20,qwen,2. hse,True
+20,qwen,3. [redacted] (location),False
+21,pupa,american,True
+21,pupa,google,True
+21,pupa,google pay,True
+21,pupa,india,True
+21,pupa,singapore,True
+21,qwen,1. google,True
+21,qwen,2. google pay,True
+21,qwen,3. american,True
+21,qwen,4. india,True
+21,qwen,5. singapore,True
+22,pupa,cfb kingston,True
+22,pupa,mcpl king,True
+22,pupa,partners in mission food bank,False
+22,qwen,cfb kingston,True
+22,qwen,mcpl king,True
+23,pupa,tel-aviv,True
+23,qwen,canada,False
+23,qwen,tel-aviv,True
+24,pupa,byd,True
+24,pupa,catl,True
+24,pupa,chn energy,True
+24,pupa,envision,True
+24,pupa,gotion high-tech,True
+24,pupa,sunwoda energy,True
+24,qwen,byd,True
+24,qwen,catl,True
+24,qwen,chn energy,True
+24,qwen,envision,True
+24,qwen,gotion high-tech,True
+24,qwen,sunwoda energy,True
+25,pupa,caroline regis,True
+25,pupa,excel systems,True
+25,qwen,1. caroline regis,True
+25,qwen,2. excel systems,True
+26,pupa,m.kis,True
+26,qwen,m.kis,True
+27,pupa,prof. martin margala,True
+27,qwen,martin margala,True
+28,pupa,<presidio_anonymized_person>,False
+28,pupa,cory,True
+28,pupa,kuebler,True
+28,qwen,cory,True
+28,qwen,kuebler,True
+28,qwen,north america,False
+29,pupa,<presidio_anonymized_person>,True
+29,pupa,ahmad,True
+29,qwen,<presidio_anonymized_person>,True
+29,qwen,ahmad,True
+30,pupa,saudi airline,True
+30,qwen,iocc,False
+30,qwen,saudi airline,True
+31,pupa,"the university of hagen, germany",False
+31,pupa,"the university of nebraska, omaha (usa)",False
+31,pupa,the university of technology malaysia,False
+32,pupa,aderemi biodun funmilola,False
+32,pupa,"bevpak nigeria limited, ibadan, oyo state",False
+32,pupa,"primewealth capital limited, lagos state, nigeria",False
+32,pupa,"solid rock health care services, md",False
+32,pupa,"solid rock healthcare services, md",False
+32,pupa,"synergy tax and financial services, md",False
+33,pupa,gelato.com,True
+33,qwen,gelato.com,True
+34,pupa,lumen,True
+34,pupa,lumen's,True
+34,pupa,"news.lumen.com, linkedin: /lumentechnologies, twitter: @lumentechco, facebook: /lumentechnologies, instagram: @lumentechnologies and youtube: /lumentechnologies.",True
+34,qwen,lumen,True
+35,pupa,heforshe impact champion,True
+35,qwen,heforshe,True
+36,pupa,baseballcloud,True
+36,pupa,bogotá,True
+36,pupa,crete,True
+36,pupa,doane,True
+36,pupa,felipe lozano,True
+36,pupa,foundever,True
+36,pupa,hudl,True
+36,pupa,lake mary,True
+36,pupa,lincoln,True
+36,pupa,take2,False
+36,pupa,vienna,True
+36,qwen,baseballcloud,True
+36,qwen,bogotá,True
+36,qwen,colombia,False
+36,qwen,crete,True
+36,qwen,doane university,True
+36,qwen,felipe lozano,True
+36,qwen,fl,False
+36,qwen,"foundever (sitel group) - instacart, just energy",True
+36,qwen,"foundever (sitel group) - paypal, venmo, lifescan",True
+36,qwen,hudl (agile sports technologies),True
+36,qwen,lake mary,True
+36,qwen,lincoln,True
+36,qwen,ne,False
+36,qwen,va,False
+36,qwen,vienna,True
+37,pupa,hse,True
+37,pupa,moscow,True
+37,pupa,pakistan,True
+37,pupa,russian,False
+37,qwen,hse,True
+37,qwen,moscow,True
+37,qwen,pakistan,True
+38,pupa,Punjab Provincial Cooperative Bank Limited,False
+39,pupa,wolfram research,True
+39,qwen,wolfram research,True
+40,pupa,xy,True
+40,qwen,xy,True
+41,pupa,aia bordeaux,True
+41,pupa,aia de bordeaux,True
+41,pupa,bordeaux,True
+41,qwen,1. aia bordeaux,True
+41,qwen,2. aia de bordeaux,True
+41,qwen,3. aia de bordeaux,True
+41,qwen,4. aia de bordeaux,True
+41,qwen,5. bordeaux,True
+42,pupa,dubai,True
+42,pupa,safran aerosystems,True
+42,pupa,safran aerosystems services,True
+42,qwen,2023-123004,False
+42,qwen,dubai,True
+42,qwen,safran aerosystems,True
+42,qwen,safran aerosystems services,True
+42,qwen,united arab emirates,False
+43,pupa,stan store,True
+43,qwen,stan store,True
+44,pupa,sparc,True
+44,qwen,sparc,True
+45,pupa,us,True
+45,qwen,us,True
+46,pupa,jazan,True
+46,pupa,jazan specialized hosp,True
+46,pupa,jeddah,True
+46,pupa,madinah,True
+46,pupa,movenpick hotel,True
+46,pupa,radspeed pro auto,True
+46,pupa,shifa taiba hosp,True
+46,qwen,1. jeddah,True
+46,qwen,2. jazan,True
+46,qwen,3. movenpick,True
+46,qwen,4. radspeed pro auto,True
+46,qwen,5. jazan specialized hosp,True
+46,qwen,6. madinah,True
+46,qwen,7. shifa taiba hosp,True
+47,pupa,levy-cohen,True
+47,pupa,london,True
+47,qwen,levy-cohen,True
+47,qwen,london,True
+48,pupa,christian dienst,False
+48,pupa,daniel westling,False
+48,pupa,germany,False
+48,pupa,sotheby’s geneva,False
+48,pupa,steingaden,False
+48,pupa,wieskirche,False
+49,pupa,may,False
+49,qwen,ap,False
+50,pupa,shannon,True
+50,pupa,zinnira,True
+50,qwen,shannon,True
+50,qwen,zinnira,True
+51,pupa,allscripts,True
+51,pupa,athenahealth,True
+51,pupa,cerner corporation,True
+51,pupa,eclinicalworks,True
+51,pupa,epic systems,True
+51,pupa,ge healthcare,True
+51,pupa,mckesson corporation,True
+51,pupa,meditech,True
+51,pupa,nextgen healthcare,True
+51,qwen,allscripts,True
+51,qwen,athenahealth,True
+51,qwen,cerner corporation,True
+51,qwen,eclinicalworks,True
+51,qwen,epic systems,True
+51,qwen,ge healthcare,True
+51,qwen,mckesson corporation,True
+51,qwen,meditech,True
+51,qwen,nextgen healthcare,True
+52,pupa,isaac ramos,True
+52,pupa,miles jaworski,True
+52,pupa,tanish kanga,True
+52,qwen,isaac ramos,True
+52,qwen,miles jaworski,True
+52,qwen,tanish kanga,True
+53,pupa,murray,False
+53,pupa,murray countertops,False
+54,pupa,apostar,True
+54,pupa,ms.yoyo,True
+54,qwen,1. yoyo,True
+54,qwen,2. apostar,True
+55,pupa,brno comac,True
+55,pupa,comac c919,True
+55,qwen,1. brno comac,True
+55,qwen,2. comac,True
+55,qwen,3. c919,True
+56,pupa,brno flight systems,True
+56,pupa,juraj holaza,True
+56,qwen,brno flight systems,True
+56,qwen,e1 cargo,False
+56,qwen,juraj holaza,True
+57,pupa,aeb,True
+57,pupa,ashghal,True
+57,pupa,bgc,True
+57,pupa,unigaz,True
+57,qwen,1. ashghal,True
+57,qwen,2. bgc,True
+57,qwen,3. aeb,True
+57,qwen,4. unigaz,True
+57,qwen,5. ashghal,True
+58,pupa,procter & gamble,True
+58,qwen,[redacted] segment: procter & gamble,True
+59,pupa,wadzpa,True
+59,qwen,wadzpa,True
+60,pupa,mih,False
+61,pupa,Tehran,False
+62,pupa,sary direct,True
+62,qwen,sary direct,True
+63,pupa,crown point,False
+63,pupa,crown point corporation,False
+63,pupa,epee inc.,True
+63,pupa,ghoti ltd.,True
+63,pupa,national bank,True
+63,pupa,sword corp.,True
+63,qwen,epee,True
+63,qwen,epee inc.,True
+63,qwen,ghoti ltd.,True
+63,qwen,national bank,True
+63,qwen,sword corp.,True
+64,pupa,https://lmsweb.aast.edu/pluginfile.php/1025401/mod_resource/content/1/lecture%201.pdf,True
+64,pupa,https://lmsweb.aast.edu/pluginfile.php/1025402/mod_resource/content/1/lecture%202.pdf,True
+64,pupa,https://lmsweb.aast.edu/pluginfile.php/894552/mod_resource/content/1/lecture%203.pdf,True
+64,pupa,https://lmsweb.aast.edu/pluginfile.php/894553/mod_resource/content/1/lecture%204.pdf,True
+64,pupa,https://lmsweb.aast.edu/pluginfile.php/902460/mod_resource/content/1/lecture%205.pdf,True
+64,pupa,https://lmsweb.aast.edu/pluginfile.php/915029/mod_resource/content/1/lecture%206.pdf,True
+64,pupa,https://lmsweb.aast.edu/pluginfile.php/915030/mod_resource/content/1/lecture%207.pdf,True
+64,pupa,https://lmsweb.aast.edu/pluginfile.php/915031/mod_resource/content/1/lecture%208.pdf,True
+64,pupa,orange egypt,True
+64,qwen,aast.edu,True
+64,qwen,egypt,True
+65,pupa,600 9355,True
+65,qwen,0345 600 9355,True
+66,pupa,bombay super hybrid seeds ltd,True
+66,qwen,**bombay super hybrid seeds ltd**,True
+66,qwen,"the [redacted] segment in the string represents the name of the company. based on the original string, the content of the [redacted] segment is:",False
+67,pupa,Christinia,False
+67,pupa,Jacket Back and Full Jacket Back,False
+68,pupa,"perdue farms, sanderson farms",True
+68,pupa,sanderson farms,True
+68,pupa,"tyson foods, sanderson farms",True
+68,qwen,1. sanderson farms,True
+68,qwen,10. sanderson farms,True
+68,qwen,2. sanderson farms,True
+68,qwen,3. sanderson farms,True
+68,qwen,4. (no redaction needed; already specific),False
+68,qwen,5. (no redaction needed; already specific),False
+68,qwen,6. sanderson farms,True
+68,qwen,7. tyson foods / sanderson farms,True
+68,qwen,8. perdue farms / sanderson farms,True
+68,qwen,9. sanderson farms,True
+69,pupa,name number and street name town or city county postcode,False
+70,pupa,accenture,True
+70,qwen,accenture,True
+71,pupa,apple,True
+71,pupa,jack,True
+71,pupa,jack vogel,True
+71,pupa,ken french,True
+71,pupa,wesley gray,True
+71,qwen,apple,True
+71,qwen,aqr,False
+71,qwen,jack,True
+71,qwen,jack vogel,True
+71,qwen,ken french,True
+71,qwen,wesley gray,True
+72,pupa,sam,True
+72,qwen,sam,True
+73,pupa,abir aly,True
+73,pupa,aida,True
+73,qwen,1. aida,True
+73,qwen,2. abir aly,True
+73,qwen,3. arabian travel market,False
+73,qwen,4. aida,True
+73,qwen,5. aida,True
+73,qwen,6. aida,True
+73,qwen,7. aida,True
+74,pupa,china,False
+75,pupa,syri,True
+75,qwen,syri,True
+76,pupa,ovhcloud,True
+76,qwen,1. ovhcloud,True
+76,qwen,2. ovhcloud,True
+77,pupa,alexander mann solutions,True
+77,pupa,mickael bauman,True
+77,qwen,alexander mann solutions,True
+77,qwen,mickael bauman,True
+78,pupa,France,False
+79,pupa,reuben,True
+79,qwen,reuben,True
+80,pupa,enter8000,False
+80,pupa,enter8000 group,False
+80,pupa,et8k group,False
+81,pupa,finelook store,True
+81,qwen,finelook store,True
+82,pupa,changting,True
+82,qwen,changting,True
+83,pupa,biden,False
+83,qwen,[redacted],False
+84,pupa,bec,True
+84,pupa,lijun,True
+84,pupa,monika,True
+84,qwen,bec,True
+84,qwen,lijun,True
+84,qwen,monika,True
+85,pupa,irvine,True
+85,pupa,laguna niguel,True
+85,pupa,orange county,True
+85,qwen,irvine,True
+85,qwen,laguna niguel,True
+85,qwen,orange county,True
+86,pupa,Engr.,False
+87,pupa,abdulmazid,True
+87,pupa,marafiq,True
+87,pupa,radwa 08,True
+87,pupa,tohama 0715,True
+87,qwen,1. abdulmazid,True
+87,qwen,2. radwa,True
+87,qwen,3. 08,False
+87,qwen,4. tohama,True
+87,qwen,5. 0715,True
+87,qwen,6. marafiq,True
+88,pupa,google,True
+88,pupa,peking university,False
+88,pupa,sensetime,True
+88,pupa,trine university,False
+88,qwen,google,True
+88,qwen,sensetime,True
+89,pupa,american,True
+89,pupa,google,True
+89,pupa,google pay team,True
+89,pupa,india,True
+89,pupa,singapore,True
+89,qwen,1. google,True
+89,qwen,2. google pay,True
+89,qwen,3. american,True
+89,qwen,4. india,True
+89,qwen,5. singapore,True
+90,pupa,elinext,False
+90,qwen,[redacted],False
+91,pupa,msitu africa,True
+91,qwen,1. msitu africa,True
+91,qwen,2. [redacted],False
+92,pupa,<presidio_anonymized_person>,True
+92,pupa,carlton hotel,True
+92,qwen,<presidio_anonymized_person>,True
+92,qwen,carlton hotel,True
+93,pupa,centric brands,True
+93,qwen,centric brands,True
+94,pupa,"cairo, egypt",True
+94,pupa,caviish,True
+94,pupa,caviishofficial,True
+94,pupa,egypt,True
+94,pupa,"egypt, the gulf region, turky, north africa, europe, bollywood, hollywood",True
+94,pupa,"london, uk",True
+94,pupa,www.caviish.com/en,True
+94,qwen,1. cairo,True
+94,qwen,10. caviishofficial,True
+94,qwen,11. caviish,True
+94,qwen,12. https://x-culture.org/for-instructors/,False
+94,qwen,2. egypt,True
+94,qwen,3. london,True
+94,qwen,4. uk,False
+94,qwen,5. egypt,True
+94,qwen,6. egypt,True
+94,qwen,7. egypt,True
+94,qwen,8. www.caviish.com/en,True
+94,qwen,9. caviishofficial,True
+95,pupa,momi,True
+95,qwen,momin,True
+96,pupa,africa,True
+96,pupa,kenya,False
+96,pupa,msitu africa,True
+96,qwen,msitu africa,True
+97,pupa,byd,True
+97,pupa,catl,True
+97,pupa,chn energy,True
+97,pupa,envision,True
+97,pupa,gotion high-tech,True
+97,pupa,sunwoda energy,True
+97,qwen,byd,True
+97,qwen,catl,True
+97,qwen,chn energy,True
+97,qwen,envision,True
+97,qwen,gotion high-tech,True
+97,qwen,sunwoda energy,True
+98,pupa,"richmond street in london, ontario",True
+98,pupa,toboggan,True
+98,pupa,toboggan brewing company,True
+98,qwen,london,True
+98,qwen,ontario,True
+98,qwen,richmond street,True
+98,qwen,toboggan,True
+98,qwen,toboggan brewing company,True
+99,pupa,markham,False
+100,pupa,markham,False
+101,pupa,https://business.inquirer.net/404972/japans-wholesale-inflation-eases-goods-close-to-consumers-continue-to-rise,False
+102,pupa,https://lnkd.in/ecsupber,True
+102,qwen,1. [redacted] has generated over $185m in web3 so far.,False
+102,qwen,"2. this may, [redacted] revealed its inaugural “[redacted]” digital collection.",False
+102,qwen,3. “[redacted]” digital collection.,False
+102,qwen,4. [redacted]’s journey is also emblematic for a bigger trend...,False
+102,qwen,5. this is why i wrote an in-depth case study on [redacted]’s web3 strategy...,False
+102,qwen,6. read it here: [redacted],False
+102,qwen,→ **https://lnkd.in/ecsupber**,True
+102,qwen,→ **nike**,False
+102,qwen,→ **ourforce 1**,False
+103,pupa,accel,True
+103,pupa,kleiner,True
+103,pupa,netscape,True
+103,pupa,uunet,True
+103,qwen,"1. ""the power law""",False
+103,qwen,2. netscape,True
+103,qwen,3. kleiner,True
+103,qwen,4. accel,True
+103,qwen,5. uunet,True
+103,qwen,"here are the contents of the [redacted] segments, one line per segment:",False
+104,pupa,amsterdam,True
+104,pupa,frank,True
+104,pupa,vincent van lith,True
+104,qwen,amsterdam,True
+104,qwen,frank,True
+104,qwen,vincent van lith,True
+105,pupa,liam,False
+105,pupa,liam's,False
+106,pupa,caroline regis,True
+106,pupa,excel systems,True
+106,qwen,1. caroline regis,True
+106,qwen,2. excel systems,True
+107,pupa,copenhagen,True
+107,qwen,copenhagen,True
+108,pupa,arnulfo b. aurellano,True
+108,pupa,banco filipino,True
+108,pupa,carlota p. valenzuela,True
+108,pupa,"jose b. fernandez, jr.",True
+108,pupa,ramon tiaoqui,True
+108,qwen,1. banco filipino,True
+108,qwen,"2. jose b. fernandez, jr.",True
+108,qwen,3. carlota p. valenzuela,True
+108,qwen,4. arnulfo b. aurellano,True
+108,qwen,5. ramon tiaoqui,True
+108,qwen,6. banco filipino,True
+109,pupa,breakthru,True
+109,pupa,breakthru beverage group,True
+109,pupa,breakthru now,True
+109,qwen,breakthru,True
+109,qwen,breakthru beverage group,True
+109,qwen,breakthru now,True
+110,pupa,abhi bhalla,True
+110,pupa,geoff kenneck,True
+110,pupa,malvern,False
+110,qwen,<presidio_anonymized_person>,False
+110,qwen,abhi bhalla,True
+110,qwen,geoff kenneck,True
+111,pupa,vanguard,True
+111,qwen,vanguard,True
+112,pupa,abhi bhalla,True
+112,pupa,geoff kennik,True
+112,pupa,hanice demucci,False
+112,pupa,sara devereau,False
+112,pupa,victoria decurrio,False
+112,qwen,abhi bhalla,True
+112,qwen,geoff kennik,True
+113,pupa,daniel hadgu,True
+113,pupa,kevin whit,True
+113,pupa,maya perkins,True
+113,pupa,"maya perkins, alec dinwiddie",True
+113,qwen,daniel hadgu,True
+113,qwen,kevin whit,True
+113,qwen,maya perkins,True
+113,qwen,"maya perkins, alec dinwiddie",True
+114,pupa,blacksun-global.com,False
+114,pupa,blacksunplc.co,False
+114,pupa,blacksunplc.com,False
+114,qwen,workiv,False
+114,qwen,workiva,False
+115,pupa,eleanora,True
+115,pupa,elenora,True
+115,pupa,sandy,True
+115,qwen,eleanora,True
+115,qwen,elenora,True
+115,qwen,sandy,True
+116,pupa,mishdad,True
+116,qwen,mishdad beauty website,True
+117,pupa,insidesfocus,True
+117,qwen,insidesfocus,True
+118,pupa,shafaq hussain,True
+118,qwen,shafaq hussain,True
+119,pupa,sana safinaz,True
+119,qwen,sana safinaz,True
+120,pupa,india,True
+120,qwen,india,True
+121,pupa,australia,False
+121,pupa,forefront securities,True
+121,pupa,india,False
+121,pupa,jay's freight,True
+121,pupa,jay's rentals,True
+121,pupa,life disability and nursing care,True
+121,pupa,staffin software,True
+121,pupa,staffin softwares victoria,True
+121,pupa,victoria,True
+121,qwen,1. staffin softwares victoria,True
+121,qwen,2. victoria,True
+121,qwen,3. jay's freight,True
+121,qwen,4. life disability and nursing care,True
+121,qwen,5. jay's rentals,True
+121,qwen,6. forefront securities,True
+121,qwen,7. staffin software,True
+121,qwen,8. staffin softwares victoria,True
+122,pupa,<presidio_anonymized_email_address>,False
+122,pupa,la société des lignes intérieures et internationales tunisair express,True
+122,pupa,tunisair express,True
+122,pupa,"« monsieur le directeur général de la société des lignes intérieures et internationales (tunisairexpress): immeuble magrebia tour a, 9 rue de l’artisanat- z.i la charguia ii -2035 tunis carthage »",True
+122,qwen,1. tunisair express,True
+122,qwen,2. tunisairexpress,True
+123,pupa,campsystem,True
+123,pupa,ed1755,True
+123,pupa,frankfurt,True
+123,pupa,geven,False
+123,pupa,mounir,True
+123,pupa,pw127m,True
+123,pupa,pwc,True
+123,pupa,riadh shil,True
+123,pupa,safran,True
+123,pupa,std aero,False
+123,pupa,te,False
+123,pupa,ts-lbd,True
+123,pupa,tt,False
+123,qwen,campsystem,True
+123,qwen,ed1755,True
+123,qwen,frankfurt,True
+123,qwen,mounir,True
+123,qwen,pw127m,True
+123,qwen,pwc,True
+123,qwen,riadh shil,True
+123,qwen,safran,True
+123,qwen,ts-lbd,True
+124,pupa,السعودية,False
+124,pupa,مركز الإتصالات,False
+125,pupa,<presidio_anonymized_person>,True
+125,pupa,dell emc,True
+125,pupa,ecs,True
+125,pupa,mohamed maniieh,True
+125,qwen,<presidio_anonymized_person>,True
+125,qwen,<presidio_anonymized_phone_number>,False
+125,qwen,dell emc,True
+125,qwen,ecs,True
+125,qwen,mohamed maniieh,True
+126,pupa,"wuhan cntsun new energy co., ltd.",True
+126,qwen,"[redacted] wuhan cntsun new energy co., ltd.",True
+127,pupa,https://www.orascomdh.com/investor-relations/financial-info,False
+127,qwen,[redacted] segment: **orascomdh**,False
+128,pupa,澳洲前100企业,False
+128,qwen,kyc,False
+128,qwen,澳洲,False
+129,pupa,silvercord,True
+129,pupa,silvercord yl,True
+129,pupa,yakiniku like,True
+129,pupa,yl,True
+129,qwen,silvercord,True
+129,qwen,silvercord yl,True
+129,qwen,yakiniku like,True
+129,qwen,yl,True
+130,pupa,zodvboz,True
+130,qwen,mainland china,False
+130,qwen,zodvboz,True
+131,pupa,south western railway,True
+131,qwen,south western railway,True
+132,pupa,google,True
+132,qwen,[redacted]: chatgpt,False
+132,qwen,[redacted]: google,True
+133,pupa,gettyimages,True
+133,qwen,gettyimages,True
+134,pupa,company a,True
+134,pupa,jim,True
+134,qwen,1. jim,True
+134,qwen,2. company a,True
+135,pupa,x,True
+135,qwen,indian,False
+135,qwen,x,True
+136,pupa,collier construction,True
+136,pupa,"earth movers, inc.",True
+136,pupa,john and patty driver,True
+136,pupa,kevin davenport,True
+136,pupa,mcnamer,True
+136,pupa,mcnamer construction company,True
+136,pupa,mission landscaping,True
+136,pupa,modern office co.,True
+136,pupa,shapiro realty,True
+136,pupa,susquehanna equipment rentals,True
+136,pupa,"susquehanna equipment rentals, mission landscaping, collier construction",True
+136,pupa,universal utilities,True
+136,qwen,collier construction,True
+136,qwen,"earth movers, inc.",True
+136,qwen,john,True
+136,qwen,kevin davenport,True
+136,qwen,mcnamer,True
+136,qwen,mcnamer construction company,True
+136,qwen,mission landscaping,True
+136,qwen,modern office co.,True
+136,qwen,patty driver,True
+136,qwen,rent-it,False
+136,qwen,shapiro realty,True
+136,qwen,susquehanna equipment rentals,True
+136,qwen,universal utilities,True
+137,pupa,australian and new zealand college of anaesthetists,True
+137,qwen,australian and new zealand college of anaesthetists,True
+138,pupa,anika grant,True
+138,pupa,grant,True
+138,pupa,ubisoft,True
+138,qwen,anika grant,True
+138,qwen,grant,True
+138,qwen,ubisoft,True
+139,pupa,fort worth,True
+139,qwen,fort worth,True
+140,pupa,little rock,True
+140,qwen,little rock,True
+140,qwen,nehemiah house,False
+141,pupa,memphis tn,True
+141,qwen,1. memphis tn,True
+141,qwen,2. (no second segment; only one [redacted] segment needed),False
+142,pupa,snowflake,False
+143,pupa,jj martinez,True
+143,pupa,key to the world,True
+143,qwen,jj martinez,True
+143,qwen,key to the world,True
+144,pupa,florida,True
+144,pupa,wendy’s,True
+144,qwen,florida,True
+144,qwen,wendy’s,True
+145,pupa,soskill,False
+146,pupa,facebook,True
+146,qwen,1. facebook ads manager,True
+147,pupa,<PRESIDIO_ANONYMIZED_PERSON>,False
+148,pupa,demone johnson,True
+148,qwen,1. demone johnson,True
+148,qwen,2. j's courier services,False
+149,pupa,mi,False
+150,pupa,compass,True
+150,pupa,paul giles,True
+150,pupa,the vintage team,True
+150,qwen,altamonte springs,False
+150,qwen,conway,False
+150,qwen,delaney park,False
+150,qwen,florida,False
+150,qwen,lake nona,False
+150,qwen,lancaster park,False
+150,qwen,maitland,False
+150,qwen,orlando,False
+150,qwen,orlando fl,False
+150,qwen,paul giles,True
+150,qwen,paul giles & the vintage team at compass,True
+150,qwen,windermere,False
+150,qwen,winter park,False
+151,pupa,mindinventory,True
+151,qwen,mindinventory,True
+152,pupa,"bridgend, wales",True
+152,pupa,buybox,True
+152,pupa,canada,True
+152,pupa,canadian,True
+152,pupa,canadian dollars,True
+152,pupa,canadian dollars (cad),True
+152,pupa,fedex,False
+152,pupa,fedex cross border,False
+152,pupa,fedex fc,False
+152,pupa,green mountain,False
+152,pupa,jd.com,False
+152,pupa,marketplace,False
+152,pupa,nodor,True
+152,pupa,northern ireland,True
+152,pupa,payoneer,False
+152,pupa,pertemba,True
+152,pupa,rakuten.com,False
+152,pupa,statsports,True
+152,pupa,u.k.,False
+152,pupa,usd,False
+152,pupa,walmart,True
+152,pupa,walmart connect,False
+152,pupa,walmart cross-border trade e-commerce marketplace,False
+152,pupa,walmart cross-border trade e-commerce marketplace integration planform,False
+152,pupa,walmart e-commerce,False
+152,pupa,walmart ecommerce usa’s marketplace.walmart.com,False
+152,pupa,walmart fulfillment services (wfs),False
+152,pupa,walmart international online marketplaces,False
+152,pupa,walmart.ca,True
+152,pupa,walmart.com,False
+152,pupa,walmart’s,False
+152,pupa,walmart’s strategic partners,False
+152,pupa,wfs,False
+152,pupa,"world first, tipalti",False
+152,qwen,1. statsports,True
+152,qwen,10. canada,True
+152,qwen,11. canada,True
+152,qwen,12. cad,True
+152,qwen,13. canadian,True
+152,qwen,14. canadian,True
+152,qwen,15. canadian,True
+152,qwen,16. canadian,True
+152,qwen,17. cad,True
+152,qwen,18. canadian,True
+152,qwen,19. cad,True
+152,qwen,2. northern ireland,True
+152,qwen,20. canadian,True
+152,qwen,21. walmart.ca,True
+152,qwen,22. canada,True
+152,qwen,23. canadian,True
+152,qwen,3. glasgow-based buybox,True
+152,qwen,4. glasgow,False
+152,qwen,5. nodor,True
+152,qwen,6. red dragon,False
+152,qwen,"7. bridgend, wales",True
+152,qwen,8. leicester-based pertemba,True
+152,qwen,9. canada,True
+153,pupa,prefchem,True
+153,qwen,prefchem,True
+154,pupa,pengerang,False
+155,pupa,a,True
+155,pupa,b,True
+155,qwen,1. evt,False
+155,qwen,2. dvt,False
+155,qwen,3. evt,False
+155,qwen,4. a,True
+155,qwen,5. dvt,False
+155,qwen,6. b,True
+156,pupa,mi,False
+157,pupa,https://seekingalpha.com/article/4615385-palantir-a-reality-check-amid-the-hype?utm_source=simplywall.st&utm_medium=referral,False
+158,pupa,innocent,True
+158,pupa,tropicana,True
+158,qwen,1. innocent,True
+158,qwen,2. tropicana,True
+158,qwen,3. innocent,True
+159,pupa,newvantage partners,True
+159,pupa,randy bean,True
+159,pupa,thomas h. davenport,True
+159,qwen,[redacted] 1: thomas h. davenport,True
+159,qwen,[redacted] 2: randy bean,True
+159,qwen,[redacted] 3: newvantage partners,True
+159,qwen,[redacted] 4: newvantage partners,True
+160,pupa,kazuo ueda,False
+160,qwen,bank of japan,False
+161,pupa,-123004,True
+161,pupa,"dubai, united arab emirates",True
+161,pupa,middle east,False
+161,pupa,safran,True
+161,pupa,safran aerosystems,True
+161,pupa,safran aerosystems services,True
+161,qwen,2023-123004,True
+161,qwen,dubai,True
+161,qwen,safran aerosystems,True
+161,qwen,safran aerosystems services,True
+161,qwen,united arab emirates,True
+162,pupa,kec tkoh,True
+162,pupa,miniu,True
+162,pupa,miniu limited (miniu),True
+162,pupa,roy,True
+162,pupa,tkoh,True
+162,pupa,tkoh/nsd,True
+162,qwen,1. roy,True
+162,qwen,10. miniu,True
+162,qwen,11. kec tkoh,True
+162,qwen,2. team alignment workshop,False
+162,qwen,3. tkoh,True
+162,qwen,4. miniu,True
+162,qwen,5. miniu,True
+162,qwen,6. tkoh/nsd,True
+162,qwen,7. pca,False
+162,qwen,8. miniu,True
+162,qwen,9. hm(p&mm),False
+163,pupa,mecca,False
+163,pupa,saudi,False
+164,pupa,presidio_anonymized_person,False
+165,pupa,klump,True
+165,pupa,kosovo,True
+165,qwen,klump,True
+165,qwen,kosovo,True
+166,pupa,shumti and co,False
+166,qwen,[redacted] segment: shumti,False
+167,pupa,<presidio_anonymized_person>,True
+167,qwen,<presidio_anonymized_person>,True
+168,pupa,hwang guen min,True
+168,pupa,kim young hyun,True
+168,qwen,1. kim young hyun,True
+168,qwen,2. hwang guen min,True
+168,qwen,3. 2024.04.05 23:59:59,False
+168,qwen,4. student_id,False
+168,qwen,5. student_marks.csv,False
+169,pupa,dem jointz,True
+169,pupa,kanye west,True
+169,pupa,yeezy,True
+169,qwen,a-di-das,False
+169,qwen,dem jointz,True
+169,qwen,kanye west,True
+169,qwen,oshkosh b'gosh,False
+169,qwen,yeezy,True
+170,pupa,ivan klimkovic,True
+170,qwen,mr. ivan klimkovic,True
+171,pupa,apostar,True
+171,pupa,ms.yoyo,True
+171,qwen,1. yoyo,True
+171,qwen,2. apostar,True
+172,pupa,aaliya,True
+172,qwen,aaliya,True
+173,pupa,pa-5450s dg,False
+173,pupa,rns,False
+174,pupa,alet,True
+174,pupa,dr.anya,True
+174,qwen,alet,True
+174,qwen,anya,True
+175,pupa,blessing,True
+175,qwen,blessing,True
+176,pupa,salar,True
+176,pupa,waqas,True
+176,qwen,1. salar,True
+176,qwen,2. waqas,True
+176,qwen,"here are the contents of the [redacted] segments, one line per segment:",False
+177,pupa,oscar,True
+177,qwen,hd,False
+177,qwen,oscar,True
+178,pupa,closed ai,True
+178,pupa,elon musk,True
+178,pupa,openai,False
+178,qwen,[redacted] 1: closed ai,True
+178,qwen,[redacted] 2: elon musk,True
+179,pupa,openai,False
+179,qwen,openal,False
+180,pupa,companyadress,True
+180,qwen,1. {{companyadress}},True
+180,qwen,2. {{companyadress}},True
+181,pupa,eman al heirat,True
+181,pupa,nour,True
+181,qwen,eman al heirat,True
+181,qwen,nour,True
+182,pupa,#100,False
+182,pupa,#29,False
+182,pupa,https://github.com/samagra-development/ai-tools#setup,False
+182,pupa,rishav-eulb/rishav-eulb-patch-2,True
+182,qwen,1. rishav-eulb,True
+182,qwen,2. rishav-eulb-patch-2,True
+183,pupa,k2,False
+184,pupa,bec,True
+184,pupa,lijun,True
+184,pupa,monika,True
+184,qwen,bec,True
+184,qwen,lijun,True
+184,qwen,monika,True
+185,pupa,america,True
+185,pupa,facebook,True
+185,pupa,ipad,False
+185,qwen,america,True
+185,qwen,facebook,True
+186,pupa,chris,False
+187,pupa,erik,False
+187,pupa,thailand,True
+187,qwen,thailand,True
+188,pupa,<presidio_anonymized_person>,True
+188,pupa,carlton hotel,True
+188,qwen,<presidio_anonymized_person>,True
+188,qwen,carlton hotel,True
+189,pupa,beverly,True
+189,pupa,sarah,True
+189,qwen,### ✅ **first sentence (sarah's line):**,True
+189,qwen,### ✅ **second sentence (beverly's line):**,True
+189,qwen,### 🔍 **step-by-step analysis:**,False
+189,qwen,### 🔹 **original dialogue:**,False
+189,qwen,### 🔹 **redacted dialogue:**,False
+189,qwen,#### **components:**,False
+189,qwen,"#### **note on ""research"":**",False
+189,qwen,#### **structure:**,False
+189,qwen,#### 1. **identify the redacted segment**,False
+189,qwen,#### 2. **sentence structure and components**,False
+189,qwen,"- ""do actual research"" (without ""an"")",False
+189,qwen,"- ""research"" is typically **uncountable**, so ""an actual research"" is **unusual** and possibly **incorrect**.",False
+189,qwen,"- **""it's time""** – idiomatic expression.",False
+189,qwen,"- **""to do an actual research""** – infinitive phrase, the action being suggested.",False
+189,qwen,- **adverbial phrase,False
+189,qwen,"- **main clause:** ""i think you need a reality check""",False
+189,qwen,"- **main clause:** ""no! you're hitting too close to home!""",False
+189,qwen,"- **object:** ""a reality check""",False
+189,qwen,"- **speaker tag:** ""beverly:""",True
+189,qwen,"- **speaker tag:** ""sarah:""",True
+189,qwen,"- **subject:** ""you""",False
+189,qwen,"- **subject:** ""you're"" (you are)",False
+189,qwen,"- **tag question:** ""don't you think it's time to do an actual research?""",False
+189,qwen,"- **verb phrase:** ""hitting""",False
+189,qwen,"- **verb:** ""need""",False
+189,qwen,- a more natural phrasing would be:,False
+189,qwen,"- or ""do some actual research""",False
+189,qwen,"- the redacted segment is the **name of the second speaker**, which is **""beverly""**.",True
+189,qwen,---,False
+189,qwen,"1. **""i think""** – main verb phrase, introduces the speaker's opinion.",False
+189,qwen,"1. **""no!""** – exclamation, a direct response to the previous question.",False
+189,qwen,"2. **""you need a reality check""** – embedded clause, the content of the opinion.",False
+189,qwen,"2. **""you're hitting too close to home!""**",False
+189,qwen,"3. **""don't you think""** – tag question, used to seek agreement.",False
+189,qwen,"4. **""it's time to do an actual research""** – embedded clause in the tag question.",False
+189,qwen,"> **""i think you need a reality check, don't you think it's time to do an actual research?""**",False
+189,qwen,"> **""no! you're hitting too close to home!""**",False
+189,qwen,"> **""sarah: i think you need a reality check, don't you think it's time to do an actual research? [redacted]: no! you're hitting too close to home!""**",True
+189,qwen,"> **""sarah: i think you need a reality check, don't you think it's time to do an actual research? beverly: no! you're hitting too close to home!""**",True
+189,qwen,"in the redacted version, the second speaker's name has been removed and replaced with **[redacted]**. the rest of the dialogue remains the same.",False
+189,qwen,let's analyze the **original** and **redacted** versions of the dialogue to determine what was redacted and explain the structure and components of the sentences.,False
+189,qwen,let’s break down the full dialogue into its grammatical and structural components.,False
+190,pupa,acacdemy kids,True
+190,qwen,[redacted] segment: acacdemy kids,True
+191,pupa,help.openai.co,True
+191,qwen,help.openai.co,True
+192,pupa,anonymous,False
+192,pupa,badhairday,False
+192,pupa,chingling,False
+192,pupa,harry,False
+192,pupa,henry,False
+192,pupa,honey,False
+192,pupa,itv,False
+192,pupa,joeye,False
+192,pupa,johnstone,False
+192,pupa,josh atkinson,False
+192,pupa,odeon at renfied street,False
+192,pupa,sauchiehall street,False
+192,pupa,"sauchiehall street, glasgow",False
+192,pupa,st enoch centre,False
+192,pupa,stv,False
+192,pupa,the fort shopping centre near the barrowland ballroom,False
+192,pupa,uk,False
+192,pupa,universal credit,False
+192,qwen,christopher eccleston,False
+193,pupa,telus,True
+193,qwen,telus,True
+194,pupa,imv,False
+195,pupa,elle,True
+195,pupa,mark,True
+195,qwen,redacted segment 1: elle,True
+195,qwen,redacted segment 2: mark,True
+196,pupa,"the university of hagen, germany",False
+196,pupa,"the university of nebraska, omaha (usa)",False
+196,pupa,the university of technology malaysia,False
+197,pupa,la société des lignes intérieures et internationales tunisair express,True
+197,pupa,"monsieur le directeur général de la société des lignes intérieures et internationales (tunisairexpress) : immeuble magrebia tour a, 9 rue de l’artisanat- z.i la charguia ii -2035 tunis carthage",True
+197,pupa,presidio_anonymized_email_address,False
+197,pupa,tunisair express,True
+197,qwen,1. tunisair express,True
+197,qwen,2. tunisairexpress,True
+198,pupa,blair,True
+198,pupa,g hobeika,True
+198,pupa,hannah,True
+198,pupa,lebal.paris,False
+198,pupa,libas,True
+198,pupa,sender's name,False
+198,pupa,your name,False
+198,qwen,1. libas,True
+198,qwen,2. hannah,True
+198,qwen,3. g hobeika,True
+198,qwen,4. hannah,True
+198,qwen,5. blair,True
+199,pupa,krysta,True
+199,qwen,krystal,True
+199,qwen,princ,False
+200,pupa,ca422836f04b1009431be3,False
+200,pupa,ca422836f04b1bb3ee4a3,False
+200,pupa,e2f7d7d6f2382009431be4447,False
+200,pupa,e2f7d7d6f31be4dbb3ee447,False
+200,qwen,hardware allocation,False
+200,qwen,its-4961,False
+200,qwen,workstation upgrade,False
+201,pupa,3d real estate rendering solutions for chicago.,False
+201,pupa,3d views bring to life a colorado residence project.,False
+201,pupa,achieving design success with jofran's cg rendering services.,False
+201,pupa,bathroom fixtures reimagined with 3d rendering for hotbath.,False
+201,pupa,beautiful architectural 3d renderings for a greek residence.,True
+201,pupa,comprehensive guide on 3d architectural rendering in the usa.,False
+201,pupa,creative restaurant design 3d rendering from lavittas creole.,False
+201,pupa,custom rendering solutions spotlighting george chebib's creations.,False
+201,pupa,"detailed interior and exterior renderings of a villa in georgia, usa.",False
+201,pupa,discover 3d renderings tailored for los angeles projects.,False
+201,pupa,elevate your living space with ezenzial's 3d rendered offerings.,False
+201,pupa,elevating online product visualization for better bona.,False
+201,pupa,enhancing children's furniture appeal with 3d rendering.,False
+201,pupa,enhancing product design development with photorealistic cgi.,False
+201,pupa,explore 3d architectural rendering case studies for new york.,False
+201,pupa,fusion furniture’s designs showcased through 3d modeling.,False
+201,pupa,highlighting 3d rendering impact on florida real estate market.,False
+201,pupa,homeandwe's product range enhanced with detailed 3d renderings.,False
+201,pupa,innovating product presentation with 3d rendered images for clawz.,False
+201,pupa,innovative 3d animation for real estate in the united states.,False
+201,pupa,insights into 3d architectural rendering across canada.,False
+201,pupa,leveraging online marketing tools for bdi furniture with cgi.,True
+201,pupa,photorealistic product renderings revolutionize lamvin's offerings.,False
+201,pupa,realistic 3d renders transformation in deschamps case study.,False
+201,pupa,showcasing 3d rendering expertise for pennsylvania projects.,False
+201,pupa,showcasing dorel home with engaging cg product images.,False
+201,pupa,troy smith’s designs brought to life with photoreal modeling.,False
+201,pupa,uk projects enhanced with 3d architectural visualization.,False
+201,pupa,using 3d rendering to enhance james james's website.,False
+201,pupa,visualizing clubhouses with architectural exterior 3d visualization.,False
+201,qwen,1. 3d architectural rendering for new york projects,False
+201,qwen,10. 3d architectural exterior visualization for a clubhouse,False
+201,qwen,11. 3d rendering for projects in pennsylvania,False
+201,qwen,12. residence 3d views for a colorado project,False
+201,qwen,13. 3d architectural visualization in the uk,False
+201,qwen,14. 3d real estate renderings in chicago,False
+201,qwen,15. realistic 3d renders for deschamps furniture,False
+201,qwen,16. kids furniture rendering for scanliving,False
+201,qwen,17. photorealistic product renderings for lamvin,False
+201,qwen,18. 3d rendering services for jofran,False
+201,qwen,19. 3d rendered product images for clawz,False
+201,qwen,2. 3d renderings for los angeles projects,False
+201,qwen,20. product 3d visualization for better bona,False
+201,qwen,21. photoreal modeling and rendering for troy smith,False
+201,qwen,22. photorealistic cgi for product design development,False
+201,qwen,23. 3d rendering of bathroom fixtures for hotbath,False
+201,qwen,24. online marketing tools for bdi furniture,True
+201,qwen,25. 3d rendering for the james james website,False
+201,qwen,26. custom rendering for george chebib,False
+201,qwen,27. 3d modeling and rendering for fusion furniture,False
+201,qwen,28. 3d product images for homeandwe,False
+201,qwen,29. 3d renderings for ezenzial living,False
+201,qwen,3. 3d architectural rendering in canada,False
+201,qwen,30. cg product images for dorel home,False
+201,qwen,31. 3d architectural rendering for a new york project,False
+201,qwen,32. 3d renderings for a los angeles project,False
+201,qwen,33. 3d architectural rendering in canada,False
+201,qwen,34. 3d rendering for real estate in florida,False
+201,qwen,35. 3d architectural rendering across the usa,False
+201,qwen,36. 3d animation for real estate objects in the usa,False
+201,qwen,"37. interior and exterior renderings for a villa in georgia, usa",False
+201,qwen,38. beautiful architectural 3d renderings for a greek residence,True
+201,qwen,39. restaurant design 3d rendering for lavittas creole,False
+201,qwen,4. 3d rendering for real estate in florida,False
+201,qwen,40. 3d architectural exterior visualization for a clubhouse,False
+201,qwen,41. 3d rendering for projects in pennsylvania,False
+201,qwen,42. residence 3d views for a colorado project,False
+201,qwen,43. 3d architectural visualization in the uk,False
+201,qwen,44. 3d real estate renderings in chicago,False
+201,qwen,45. realistic 3d renders for deschamps furniture,False
+201,qwen,46. kids furniture rendering for scanliving,False
+201,qwen,47. photorealistic product renderings for lamvin,False
+201,qwen,48. 3d rendering services for jofran,False
+201,qwen,49. 3d rendered product images for clawz,False
+201,qwen,5. 3d architectural rendering across the usa,False
+201,qwen,50. product 3d visualization for better bona,False
+201,qwen,51. photoreal modeling and rendering for troy smith,False
+201,qwen,52. photorealistic cgi for product design development,False
+201,qwen,53. 3d rendering of bathroom fixtures for hotbath,False
+201,qwen,54. online marketing tools for bdi furniture,True
+201,qwen,55. 3d rendering for the james james website,False
+201,qwen,56. custom rendering for george chebib,False
+201,qwen,57. 3d modeling and rendering for fusion furniture,False
+201,qwen,58. 3d product images for homeandwe,False
+201,qwen,59. 3d renderings for ezenzial living,False
+201,qwen,6. 3d animation for real estate objects in the usa,False
+201,qwen,60. cg product images for dorel home,False
+201,qwen,"7. interior and exterior renderings for a villa in georgia, usa",False
+201,qwen,8. beautiful architectural 3d renderings for a greek residence,True
+201,qwen,9. restaurant design 3d rendering for lavittas creole,False
+202,pupa,centric brands,True
+202,qwen,centric brands,True
+203,pupa,<presidio_anonymized_person,True
+203,pupa,<presidio_anonymized_person>,True
+203,qwen,1. `<presidio_anonymized_person>`,True
+203,qwen,10. `waichanl`,False
+203,qwen,2. `<presidio_anonymized_person>`,True
+203,qwen,3. `uni-eastern mfg. co. ltd`,False
+203,qwen,4. `taiwan`,False
+203,qwen,5. `taipei`,False
+203,qwen,6. `886 2 2659 9222`,False
+203,qwen,7. `116`,False
+203,qwen,8. `886 952720881`,False
+203,qwen,9. `uni-russell`,False
+203,qwen,"here are the contents of the [redacted] segments, one line per segment:",False
+204,pupa,australian and new zealand college of anaesthetists,True
+204,qwen,australian and new zealand college of anaesthetists,True
+205,pupa,dr. hossam,True
+205,pupa,engr. osama,True
+205,pupa,ms. ehsan,True
+205,qwen,ehsan,True
+205,qwen,hossam,True
+205,qwen,osama,True
+206,pupa,920027778,False
+206,qwen,imc network,False
+207,pupa,xyz,True
+207,qwen,xyz,True
+208,pupa,sarah,True
+208,qwen,sarah,True
+209,pupa,fucking niggafaggots,False
+210,pupa,arlington,True
+210,pupa,city of arlington,True
+210,pupa,mrs. dipert,False
+210,pupa,troy williams,True
+210,qwen,arlington,True
+210,qwen,city of arlington,True
+210,qwen,troy williams,True
+211,pupa,katie,False
+211,pupa,nate,False
+211,pupa,uptown springdale,False
+212,pupa,danish,True
+212,pupa,hameedi sahib,True
+212,pupa,morwared,False
+212,qwen,danish,True
+212,qwen,hameedi sahib,True
+213,pupa,centric,True
+213,qwen,### answer:,False
+213,qwen,centric,True
+213,qwen,"the original sentence is asking about whether a vendor provided information regarding the size of a carton they would have used **without** following packaging optimization guidelines. it also mentions that such information is typically collected during a **pilot shipment**, and then asks whether this was done for the **centric manual pilot shipments**.",True
+213,qwen,"the redacted version is almost identical, but the word **""centric""** has been replaced with **[redacted]**.",True
+214,pupa,tearms,True
+214,qwen,tearms,True
+215,pupa,closed ai,False
+215,pupa,elon musk,False
+215,pupa,https://image.pollinations.ai/prompt/,False
+215,pupa,victoria,False
+216,pupa,belal,True
+216,qwen,belal,True
+218,pupa,"guangxi, china",True
+218,qwen,china,True
+218,qwen,guangxi,True
+219,pupa,lisa godfrey,True
+219,pupa,lucy,False
+219,pupa,lucy godfrey,False
+219,qwen,1. lisa godfrey,True
+219,qwen,2. mrs godfrey,False
+219,qwen,3. lisa godfrey,True
+220,pupa,healthylife,True
+220,pupa,oakland park,True
+220,pupa,oakland park medical center,True
+220,pupa,oakland park urgent care,True
+220,qwen,healthylife,True
+220,qwen,oakland park,True
+220,qwen,oakland park medical,True
+221,pupa,sandra trevino,True
+221,pupa,trevino,True
+221,qwen,sandra trevino,True
+221,qwen,trevino,True
+222,pupa,eman al heirat,True
+222,pupa,nour,True
+222,qwen,eman al heirat,True
+222,qwen,nour,True
+223,pupa,florida,True
+223,pupa,lauderhill,True
+223,pupa,oakland park,True
+223,qwen,florida,True
+223,qwen,lauderhill,True
+223,qwen,oakland park,True
+224,pupa,sarah,True
+224,qwen,sarah,True
+225,pupa,mam lebogang channe,True
+225,pupa,mam nthabiseng and mr mhlanga,True
+225,pupa,mam yolanda,True
+225,pupa,nkazimulo zulu,False
+225,pupa,teacher yolanda,True
+225,pupa,teacher yolanda mouton,True
+225,qwen,1. mam yolanda,True
+225,qwen,2. mam lebogang channe,True
+225,qwen,3. yolanda mouton,True
+225,qwen,4. yolanda,True
+225,qwen,5. lebo,True
+225,qwen,6. rosa,False
+225,qwen,7. nthabiseng,True
+225,qwen,8. mhlanga,True
+226,pupa,belal,True
+226,qwen,[redacted] segment: belal,True
+227,pupa,iran,True
+227,qwen,1. iran,True
+227,qwen,10. iranian,True
+227,qwen,2. tehran,False
+227,qwen,3. iran,True
+227,qwen,4. tehran,False
+227,qwen,5. iran,True
+227,qwen,6. iran,True
+227,qwen,7. iranian,True
+227,qwen,8. iranian,True
+227,qwen,9. tehran,False
+228,pupa,india,True
+228,qwen,india,True
+229,pupa,Texas,False
+230,pupa,germany,True
+230,pupa,illumina,True
+230,pupa,illumina novaseq6000,True
+230,pupa,"illumina, usa",True
+230,pupa,qiagen,True
+230,pupa,truseq® rna sample preparation kit,False
+230,pupa,usa,True
+230,qwen,germany,True
+230,qwen,illumina,True
+230,qwen,illumina novaseq6000,True
+230,qwen,qiagen,True
+230,qwen,usa,True
+231,pupa,"c-bay systems india private limited – vikhroli east, mumbai - india",True
+231,pupa,"chinai transcriptions private limited – nandanam, chennai - india",True
+231,pupa,city land glass & aluminium factory abu dhabi - uae,True
+231,pupa,"healthsoft india pvt ltd - t. nagar, chennai – india",True
+231,pupa,"horizon technologies private limited – mylapore, chennai – india",True
+231,pupa,mohamed sathak polytechnic college – kilakarai,True
+231,pupa,s10 healthcare solutions ltd – chennai,True
+231,pupa,"source mt private ltd – aminjikarai, chennai – india",True
+231,pupa,v transcriptions llc – chennai,True
+231,qwen,"c-bay systems india private limited – vikhroli east, mumbai - india",True
+231,qwen,"chinai transcriptions private limited – nandanam, chennai - india",True
+231,qwen,city land glass & aluminium factory abu dhabi - uae,True
+231,qwen,"healthsoft india pvt ltd - t. nagar, chennai – india",True
+231,qwen,"horizon technologies private limited – mylapore, chennai – india",True
+231,qwen,indian,False
+231,qwen,"mohamed sathak polytechnic college – kilakarai, tamil nadu, india",True
+231,qwen,s10 healthcare solutions ltd – chennai,True
+231,qwen,"source mt private ltd – aminjikarai, chennai – india",True
+231,qwen,v transcriptions llc – chennai,True
+232,pupa,x,False
+232,qwen,"[redacted] segment: ""miss x""",False
+233,pupa,belal,True
+233,qwen,belal,True
+234,pupa,abcam inc.,True
+234,pupa,"san francisco, usa",True
+234,qwen,1. dynatech,False
+234,qwen,10. usa,True
+234,qwen,2. abcam inc.,True
+234,qwen,3. san francisco,True
+234,qwen,4. usa,True
+234,qwen,5. abcam inc.,True
+234,qwen,6. san francisco,True
+234,qwen,7. usa,True
+234,qwen,8. abcam inc.,True
+234,qwen,9. san francisco,True
+235,pupa,florida,True
+235,pupa,lauderhill,True
+235,pupa,oakland park,True
+235,qwen,1. lauderhill,True
+235,qwen,2. oakland park,True
+235,qwen,3. oakland park,True
+235,qwen,4. florida,True
+235,qwen,5. florida,True
+235,qwen,6. florida,True
+236,pupa,amos tversky,True
+236,pupa,daniel kahneman,True
+236,pupa,simon,True
+236,qwen,amos tversky,True
+236,qwen,daniel kahneman,True
+236,qwen,simon,True

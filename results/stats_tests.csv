@@ -1,0 +1,8 @@
+measure,judge,test,n_pairs,private_only_pass,public_only_pass,p_value,private_mean,public_mean,significant_5pct
+quality_lenient,gpt-oss:20b,McNemar (exact),236,7.0,59.0,2.3834933267526115e-11,,,True
+quality_strict,gpt-oss:20b,McNemar (exact),236,10.0,73.0,5.800664942039543e-13,,,True
+leakage,gpt-oss:20b,Wilcoxon signed-rank,236,,,0.4424333588865146,74.22462770418902,76.04673063172565,False
+quality_lenient,qwen3:32b,McNemar (exact),236,6.0,6.0,1.0,,,False
+quality_strict,qwen3:32b,McNemar (exact),236,9.0,7.0,0.803619384765625,,,False
+leakage,qwen3:32b,Wilcoxon signed-rank,236,,,0.3235039228964389,81.03993574831063,82.95477564420734,False
+sem_bleu,-,Wilcoxon signed-rank,236,,,3.2036010126599965e-16,0.4175531505850857,0.36405551139143383,True

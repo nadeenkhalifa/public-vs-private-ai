@@ -1,0 +1,8 @@
+Figure,Article,Their result,Your result,"Same or different, and why"
+Fig 1 Quality,"Siyan et al. (2025), Tables 4 and 6",API-only GPT-4o-mini 88.2; local-only Llama-3.1-8B 81.5,"gpt-oss: public 94.5, private 73.3; qwen: public 96.6, private 96.2",Same direction with gpt-oss (API higher); qwen finds no difference (lenient judge)
+Fig 2 Outcomes,"Siyan et al. (2025), Alg. 1",No figure (scoring rule only),gpt-oss mostly better/worse; qwen mostly tie,No equivalent
+Fig 3 SEM-BLEU,"Irugalbandara et al. (2024), Sec. IV-B3",SEM-BLEU matched human rankings best,Private 0.408 vs public 0.348,Different: SEM-BLEU ranks the models opposite to the judge
+Fig 4 Speed,"Irugalbandara et al. (2024), Figs 11-12",Mistral-7B within 1 s of GPT-4 per request; faster per token,Private 17.54 ± 5.05 s vs public 2.32 ± 3.64 s,Different: private about 2.5x slower in the speed test (5x in the full run); T4 + quantised model vs Flash-Lite
+Fig 5 Privacy,"Siyan et al. (2025), Table 4",API-only leakage 100,"Exposure: public 100%, private 0%; answer leakage about equal for both models",Same for exposure; answer leakage is an own measure
+Fig 6 Cost,"Irugalbandara et al. (2024), Figs 16-17, Sec. VI-E",Self-hosting 5-29x cheaper than GPT-4,"Private 2.9x more expensive per token; break-even 242,484 queries > capacity 70,239",Opposite: current API prices are far lower than GPT-4's in 2023
+Fig 7 Summary,Siyan et al. (2025); Irugalbandara et al. (2024),Quality private/public 0.92; speed about equal; private 5-29x cheaper,"Quality 0.78 (gpt-oss), 1.00 (Qwen); private 4.2x slower; private 2.9x more expensive","Quality: same direction (gpt-oss); speed and cost: opposite (newer, cheaper, faster API)"
